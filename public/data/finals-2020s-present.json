@@ -1,0 +1,342 @@
+[
+  {
+    "season": "2020-21",
+    "era": "champions",
+    "date": "29/05/2021",
+    "time": "20:00 WEST",
+    "winner": "Chelsea FC",
+    "runnerUp": "Manchester City",
+    "scoreWinner": "1",
+    "scoreRunnerUp": "0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Thomas Tuchel", "pais": "de" },
+        "formation": "3-6-1",
+        "startingEleven": [
+          { "nombre": "Édouard Mendy (P)", "pais": "sn" },
+          { "nombre": "Thiago Silva", "pais": "br" },
+          { "nombre": "Reece James", "pais": "gb-eng" },
+          { "nombre": "Antonio Rüdiger", "pais": "de" },
+          { "nombre": "César Azpilicueta (C)", "pais": "es" },
+          { "nombre": "Ben Chilwell", "pais": "gb-eng" },
+          { "nombre": "N'Golo Kanté", "pais": "fr" },
+          { "nombre": "Jorginho", "pais": "it" },
+          { "nombre": "Mason Mount", "pais": "gb-eng" },
+          { "nombre": "Kai Havertz", "pais": "de" },
+          { "nombre": "Timo Werner", "pais": "de" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Josep Guardiola", "pais": "es" },
+        "formation": "4-3-3",
+        "startingEleven": [
+          { "nombre": "Ederson Moraes (P)", "pais": "br" },
+          { "nombre": "Kyle Walker", "pais": "gb-eng" },
+          { "nombre": "John Stones", "pais": "gb-eng" },
+          { "nombre": "Rúben Dias", "pais": "pt" },
+          { "nombre": "Oleksandr Zinchenko", "pais": "ua" },
+          { "nombre": "İlkay Gündoğan", "pais": "de" },
+          { "nombre": "Kevin De Bruyne (C)", "pais": "be" },
+          { "nombre": "Bernardo Silva", "pais": "pt" },
+          { "nombre": "Riyad Mahrez", "pais": "dz" },
+          { "nombre": "Phil Foden", "pais": "gb-eng" },
+          { "nombre": "Raheem Sterling", "pais": "gb-eng" }
+        ]
+      }
+    },
+    "stadium": "Estádio do Dragão",
+    "city": "Oporto",
+    "country": "Portugal",
+    "attendance": "14,110",
+    "referee": "Antonio Mateu Lahoz (España)",
+    "goals": "Chelsea: Havertz (42')"
+  },
+  {
+    "season": "2021-22",
+    "era": "champions",
+    "date": "28/05/2022",
+    "time": "21:36 CEST",
+    "winner": "Real Madrid",
+    "runnerUp": "Liverpool",
+    "scoreWinner": "1",
+    "scoreRunnerUp": "0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Carlo Ancelotti", "pais": "it" },
+        "formation": "4-3-3",
+        "startingEleven": [
+          { "nombre": "Thibaut Courtois (P)", "pais": "be" },
+          { "nombre": "Daniel Carvajal", "pais": "es" },
+          { "nombre": "Éder Militão", "pais": "br" },
+          { "nombre": "David Alaba", "pais": "at" },
+          { "nombre": "Ferland Mendy", "pais": "fr" },
+          { "nombre": "Luka Modrić", "pais": "hr" },
+          { "nombre": "Casemiro", "pais": "br" },
+          { "nombre": "Toni Kroos", "pais": "de" },
+          { "nombre": "Federico Valverde", "pais": "uy" },
+          { "nombre": "Karim Benzema (C)", "pais": "fr" },
+          { "nombre": "Vinícius Júnior", "pais": "br" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Jürgen Klopp", "pais": "de" },
+        "formation": "4-3-3",
+        "startingEleven": [
+          { "nombre": "Alisson Becker (P)", "pais": "br" },
+          { "nombre": "Trent Alexander-Arnold", "pais": "gb-eng" },
+          { "nombre": "Ibrahima Konaté", "pais": "fr" },
+          { "nombre": "Virgil van Dijk", "pais": "nl" },
+          { "nombre": "Andrew Robertson", "pais": "gb-sct" },
+          { "nombre": "Jordan Henderson (C)", "pais": "gb-eng" },
+          { "nombre": "Fabinho", "pais": "br" },
+          { "nombre": "Thiago Alcántara", "pais": "es" },
+          { "nombre": "Mohamed Salah", "pais": "eg" },
+          { "nombre": "Sadio Mané", "pais": "sn" },
+          { "nombre": "Luis Díaz", "pais": "co" }
+        ]
+      }
+    },
+    "stadium": "Stade de France",
+    "city": "Saint-Denis",
+    "country": "Francia",
+    "attendance": "75,000",
+    "referee": "Clément Turpin (Francia)",
+    "goals": "Real Madrid: Vinícius Jr. (59')"
+  },
+  {
+    "season": "2022-23",
+    "era": "champions",
+    "date": "10/06/2023",
+    "time": "22:00 TRT",
+    "winner": "Manchester City",
+    "runnerUp": "Inter de Milán",
+    "scoreWinner": "1",
+    "scoreRunnerUp": "0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Josep Guardiola", "pais": "es" },
+        "formation": "3-2-4-1",
+        "startingEleven": [
+          { "nombre": "Ederson Moraes (P)", "pais": "br" },
+          { "nombre": "Manuel Akanji", "pais": "ch" },
+          { "nombre": "Rúben Dias", "pais": "pt" },
+          { "nombre": "Nathan Aké", "pais": "nl" },
+          { "nombre": "John Stones", "pais": "gb-eng" },
+          { "nombre": "Rodri Hernández", "pais": "es" },
+          { "nombre": "Bernardo Silva", "pais": "pt" },
+          { "nombre": "Kevin De Bruyne", "pais": "be" },
+          { "nombre": "İlkay Gündoğan (C)", "pais": "de" },
+          { "nombre": "Jack Grealish", "pais": "gb-eng" },
+          { "nombre": "Erling Haaland", "pais": "no" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Simone Inzagui", "pais": "it" },
+        "formation": "3-5-2",
+        "startingEleven": [
+          { "nombre": "André Onana (P)", "pais": "cm" },
+          { "nombre": "Matteo Darmian", "pais": "it" },
+          { "nombre": "Francesco Acerbi", "pais": "it" },
+          { "nombre": "Alessandro Bastoni", "pais": "it" },
+          { "nombre": "Denzel Dumfries", "pais": "nl" },
+          { "nombre": "Nicolò Barella", "pais": "it" },
+          { "nombre": "Marcelo Brozović (C)", "pais": "hr" },
+          { "nombre": "Hakan Çalhanoğlu", "pais": "tr" },
+          { "nombre": "Federico Dimarco", "pais": "it" },
+          { "nombre": "Lautaro Martínez", "pais": "ar" },
+          { "nombre": "Edin Džeko", "pais": "ba" }
+        ]
+      }
+    },
+    "stadium": "Atatürk Olympic Stadium",
+    "city": "Estambul",
+    "country": "Turquía",
+    "attendance": "71,412",
+    "referee": "Szymon Marciniak (Polonia)",
+    "goals": "Man. City: Rodri Hernández (68')"
+  },
+  {
+    "season": "2023-24",
+    "era": "champions",
+    "date": "01/06/2024",
+    "time": "20:00 BST",
+    "winner": "Real Madrid",
+    "runnerUp": "Borussia Dortmund",
+    "scoreWinner": "2",
+    "scoreRunnerUp": "0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Carlo Ancelotti", "pais": "it" },
+        "formation": "4-3-1-2",
+        "startingEleven": [
+          { "nombre": "Thibaut Courtois (P)", "pais": "be" },
+          { "nombre": "Daniel Carvajal", "pais": "es" },
+          { "nombre": "Antonio Rüdiger", "pais": "de" },
+          { "nombre": "Nacho Fernández (C)", "pais": "es" },
+          { "nombre": "Ferland Mendy", "pais": "fr" },
+          { "nombre": "Federico Valverde", "pais": "uy" },
+          { "nombre": "Eduardo Camavinga", "pais": "fr" },
+          { "nombre": "Toni Kroos", "pais": "de" },
+          { "nombre": "Jude Bellingham", "pais": "gb-eng" },
+          { "nombre": "Rodrygo Silva de Goes", "pais": "br" },
+          { "nombre": "Vinícius Júnior", "pais": "br" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Edin Terzić", "pais": "de" },
+        "formation": "4-2-3-1",
+        "startingEleven": [
+          { "nombre": "Gregor Kobel (P)", "pais": "ch" },
+          { "nombre": "Julian Ryerson", "pais": "no" },
+          { "nombre": "Mats Hummels", "pais": "de" },
+          { "nombre": "Nico Schlotterbeck", "pais": "de" },
+          { "nombre": "Ian Maatsen", "pais": "nl" },
+          { "nombre": "Emre Can (C)", "pais": "tr" },
+          { "nombre": "Marcel Sabitzer", "pais": "at" },
+          { "nombre": "Jadon Sancho", "pais": "gb-eng" },
+          { "nombre": "Julian Brandt", "pais": "de" },
+          { "nombre": "Karim Adeyemi", "pais": "de" },
+          { "nombre": "Niclas Füllkrug", "pais": "de" }
+        ]
+      }
+    },
+    "stadium": "Wembley Stadium",
+    "city": "Londres",
+    "country": "Inglaterra",
+    "attendance": "86,212",
+    "referee": "Slavko Vinčić (Eslovenia)",
+    "goals": "Real Madrid: Carvajal (74'), Vinícius Jr. (83')"
+  },
+  {
+    "season": "2024-25",
+    "era": "champions",
+    "date": "31/05/2025",
+    "time": "21:00 CEST",
+    "winner": "Paris Saint-Germain",
+    "runnerUp": "Inter de Milán",
+    "scoreWinner": "5",
+    "scoreRunnerUp": "0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Luis Enrique", "pais": "es" },
+        "formation": "4-3-3",
+        "startingEleven": [
+          { "nombre": "Gianluigi Donnarumma (P)", "pais": "it" },
+          { "nombre": "Achraf Hakimi", "pais": "ma" },
+          { "nombre": "Marquinhos (C)", "pais": "br" },
+          { "nombre": "Willian Pacho", "pais": "ec" },
+          { "nombre": "Nuno Mendes", "pais": "pt" },
+          { "nombre": "João Neves", "pais": "pt" },
+          { "nombre": "Vitinha", "pais": "pt" },
+          { "nombre": "Fabian Ruiz", "pais": "es" },
+          { "nombre": "Désiré Doué", "pais": "fr" },
+          { "nombre": "Ousmane Dembélé", "pais": "fr" },
+          { "nombre": "Khvicha Kvaratskhelia", "pais": "ge" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Simone Inzagui", "pais": "it" },
+        "formation": "3-5-2",
+        "startingEleven": [
+          { "nombre": "Yann Sommer (P)", "pais": "ch" },
+          { "nombre": "Benjamin Pavard", "pais": "fr" },
+          { "nombre": "Francesco Acerbi", "pais": "it" },
+          { "nombre": "Alessandro Bastoni", "pais": "it" },
+          { "nombre": "Denzel Dumfries", "pais": "nl" },
+          { "nombre": "Nicolò Barella", "pais": "it" },
+          { "nombre": "Hakan Çalhanoğlu", "pais": "tr" },
+          { "nombre": "Henrikh Mkhitaryan", "pais": "am" },
+          { "nombre": "Federico Dimarco", "pais": "it" },
+          { "nombre": "Marcus Thuram", "pais": "fr" },
+          { "nombre": "Lautaro Martínez (C)", "pais": "ar" }
+        ]
+      }
+    },
+    "stadium": "Allianz Arena",
+    "city": "Múnich",
+    "country": "Alemania",
+    "attendance": "75,000",
+    "referee": "István Kovács (Rumania)",
+    "goals": "PSG: Hakimi (12'), Doué (20', 63'), Kvaratskhelia (73'), Mayulu (86')"
+  },
+  {
+    "season": "2025-26",
+    "era": "champions",
+    "date": "30/05/2026",
+    "time": "18:00 CEST",
+    "winner": "Paris Saint-Germain",
+    "runnerUp": "Arsenal FC",
+    "scoreWinner": "1 (4)",
+    "scoreRunnerUp": "(3) 1",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Luis Enrique", "pais": "es" },
+        "formation": "4-3-3",
+        "startingEleven": [
+          { "nombre": "Matvéi Safónov (P)", "pais": "ru" },
+          { "nombre": "Achraf Hakimi", "pais": "ma" },
+          { "nombre": "Marquinhos (C)", "pais": "br" },
+          { "nombre": "Willian Pacho", "pais": "ec" },
+          { "nombre": "Nuno Mendes", "pais": "pt" },
+          { "nombre": "João Neves", "pais": "pt" },
+          { "nombre": "Vitinha", "pais": "pt" },
+          { "nombre": "Fabian Ruiz", "pais": "es" },
+          { "nombre": "Désiré Doué", "pais": "fr" },
+          { "nombre": "Ousmane Dembélé", "pais": "fr" },
+          { "nombre": "Khvicha Kvaratskhelia", "pais": "ge" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Mikel Arteta", "pais": "es" },
+        "formation": "4-2-3-1",
+        "startingEleven": [
+          { "nombre": "David Raya (P)", "pais": "es" },
+          { "nombre": "Cristhian Mosquera", "pais": "es" },
+          { "nombre": "Willian Saliba", "pais": "fr" },
+          { "nombre": "Gabriel Magalhães", "pais": "br" },
+          { "nombre": "Piero Hincapié", "pais": "ec" },
+          { "nombre": "Declan Rice", "pais": "gb-eng" },
+          { "nombre": "Myles Lewis-Skelly", "pais": "gb-eng" },
+          { "nombre": "Bukayo Saka", "pais": "gb-eng" },
+          { "nombre": "Martin Ødegaard (C)", "pais": "no" },
+          { "nombre": "Leandro Trossard", "pais": "be" },
+          { "nombre": "Kai Havertz", "pais": "de" }
+        ]
+      }
+    },
+    "stadium": "Puskás Aréna",
+    "city": "Budapest",
+    "country": "Hungría",
+    "attendance": "61,035",
+    "referee": "Daniel Siebert (Alemania)",
+    "goals": "PSG: Ousmane Dembélé (65' pen.) | Arsenal: Kai Havertz (6')"
+  },
+  {
+    "season": "2026-27",
+    "era": "champions",
+    "date": "05/06/2027",
+    "time": "21:00 CEST",
+    "winner": "TBD",
+    "runnerUp": "TBD",
+    "scoreWinner": "",
+    "scoreRunnerUp": "",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "", "pais": "" },
+        "formation": "",
+        "startingEleven": []
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "", "pais": "" },
+        "formation": "",
+        "startingEleven": []
+      }
+    },
+    "stadium": "Estadio Metropolitano",
+    "city": "Madrid",
+    "country": "España",
+    "attendance": "63,272",
+    "referee": "Por definir",
+    "goals": "TBD"
+  }
+]

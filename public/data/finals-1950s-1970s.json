@@ -1,0 +1,1329 @@
+[
+  {
+    "season": "1955-56",
+    "era": "copa-europa",
+    "date": "13/06/1956",
+    "time": "15:00 CET",
+    "winner": "Real Madrid",
+    "runnerUp": "Stade de Reims",
+    "score": "4 - 3",
+    "scoreWinner": "4",
+    "scoreRunnerUp": "3",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "José Villalonga", "pais": "es" },
+        "formation": "3-2-5",
+        "startingEleven": [
+          { "nombre": "Juan Alonso (P)", "pais": "es" },
+          { "nombre": "Rafael Lesmes", "pais": "es" },
+          { "nombre": "Marquitos Alonso", "pais": "es" },
+          { "nombre": "Ángel Atienza", "pais": "es" },
+          { "nombre": "Miguel Muñoz (C)", "pais": "es" },
+          { "nombre": "José María Zárraga", "pais": "es" },
+          { "nombre": "Héctor Rial", "pais": "es" },
+          { "nombre": "Ramón Marsal", "pais": "es" },
+          { "nombre": "Alfredo Di Stéfano", "pais": "ar" },
+          { "nombre": "Joseíto Iglesias", "pais": "es" },
+          { "nombre": "Paco Gento", "pais": "es" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Albert Batteux", "pais": "fr" },
+        "formation": "3-2-5",
+        "startingEleven": [
+          { "nombre": "René Jacquet (P)", "pais": "fr" },
+          { "nombre": "Simon Zimny", "pais": "fr" },
+          { "nombre": "Robert Jonquet (C)", "pais": "fr" },
+          { "nombre": "Raoul Giraudo", "pais": "fr" },
+          { "nombre": "Michel Leblond", "pais": "fr" },
+          { "nombre": "Robert Siatka", "pais": "fr" },
+          { "nombre": "Michel Hidalgo", "pais": "fr" },
+          { "nombre": "Léon Glovacki", "pais": "fr" },
+          { "nombre": "Raymond Kopa", "pais": "fr" },
+          { "nombre": "René Bliard", "pais": "fr" },
+          { "nombre": "Jean Templin", "pais": "fr" }
+        ]
+      }
+    },
+    "stadium": "Parc des Princes",
+    "city": "París",
+    "country": "Francia",
+    "attendance": "38,239",
+    "referee": "Arthur Edward Ellis (Inglaterra)",
+    "goals": "Real Madrid: Di Stéfano (14'), Rial (30', 79'), Marquitos (67') | Reims: Leblond (6'), Templin (10'), Hidalgo (62')"
+  },
+  {
+    "season": "1956-57",
+    "era": "copa-europa",
+    "date": "30/05/1957",
+    "time": "17:30 CET",
+    "winner": "Real Madrid",
+    "runnerUp": "Fiorentina",
+    "score": "2 - 0",
+    "scoreWinner": "2",
+    "scoreRunnerUp": "0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "José Villalonga", "pais": "es" },
+        "formation": "3-2-5",
+        "startingEleven": [
+          { "nombre": "Juan Alonso (P)", "pais": "es" },
+          { "nombre": "Manuel Torres", "pais": "es" },
+          { "nombre": "Marquitos Alonso", "pais": "es" },
+          { "nombre": "Rafael Lesmes", "pais": "es" },
+          { "nombre": "Miguel Muñoz (C)", "pais": "es" },
+          { "nombre": "José María Zárraga", "pais": "es" },
+          { "nombre": "Raymond Kopa", "pais": "fr" },
+          { "nombre": "Enrique Mateos", "pais": "es" },
+          { "nombre": "Alfredo Di Stéfano", "pais": "ar" },
+          { "nombre": "Héctor Rial", "pais": "es" },
+          { "nombre": "Paco Gento", "pais": "es" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Giuliano Sarti (P)", "pais": "it" },
+        "formation": "3-2-5",
+        "startingEleven": [
+          { "nombre": "Ardico Magnini", "pais": "it" },
+          { "nombre": "Alberto Orzan", "pais": "it" },
+          { "nombre": "Sergio Cervato (C)", "pais": "it" },
+          { "nombre": "Armando Segato", "pais": "it" },
+          { "nombre": "Aldo Scaramucci", "pais": "it" },
+          { "nombre": "Julinho Botelho", "pais": "br" },
+          { "nombre": "Guido Gratton", "pais": "it" },
+          { "nombre": "Giuseppe Virgili", "pais": "it" },
+          { "nombre": "Miguel Montuori", "pais": "ar" },
+          { "nombre": "Claudio Bizzarri", "pais": "it" },
+          { "nombre": "Fulvio Bernardini", "pais": "it" }
+        ]
+      }
+    },
+    "stadium": "Santiago Bernabéu",
+    "city": "Madrid",
+    "country": "España",
+    "attendance": "124,000",
+    "referee": "Leo Horn (Países Bajos)",
+    "goals": "Real Madrid: Di Stéfano (69' pen.), Gento (75')"
+  },
+  {
+    "season": "1957-58",
+    "era": "copa-europa",
+    "date": "28/05/1958",
+    "time": "18:00 CET",
+    "winner": "Real Madrid",
+    "runnerUp": "AC Milan",
+    "score": "3 - 2 (t.s.)",
+    "scoreWinner": "3 (t.",
+    "scoreRunnerUp": "s.) 2",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Luis Carniglia", "pais": "ar" },
+        "formation": "3-2-5",
+        "startingEleven": [
+          { "nombre": "Juan Alonso (P)(C)", "pais": "es" },
+          { "nombre": "Ángel Atienza", "pais": "es" },
+          { "nombre": "José Santamaría", "pais": "es" },
+          { "nombre": "Rafael Lesmes", "pais": "es" },
+          { "nombre": "Juan Santisteban", "pais": "es" },
+          { "nombre": "José María Zárraga", "pais": "es" },
+          { "nombre": "Raymond Kopa", "pais": "fr" },
+          { "nombre": "Joseíto Iglesias", "pais": "es" },
+          { "nombre": "Alfredo Di Stéfano", "pais": "ar" },
+          { "nombre": "Héctor Rial", "pais": "es" },
+          { "nombre": "Paco Gento", "pais": "es" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Gipo Viani", "pais": "it" },
+        "formation": "3-2-5",
+        "startingEleven": [
+          { "nombre": "Narciso Soldan (P)", "pais": "it" },
+          { "nombre": "Alfio Fontana", "pais": "it" },
+          { "nombre": "Cesare Maldini", "pais": "it" },
+          { "nombre": "Eros Beraldo", "pais": "it" },
+          { "nombre": "Mario Bergamaschi", "pais": "it" },
+          { "nombre": "Luigi Radice", "pais": "it" },
+          { "nombre": "Giancarlo Danova", "pais": "it" },
+          { "nombre": "Nils Liedholm (C)", "pais": "se" },
+          { "nombre": "Juan Alberto Schiaffino", "pais": "uy" },
+          { "nombre": "Ernesto Grillo", "pais": "ar" },
+          { "nombre": "Ernesto Cucchiaroni", "pais": "ar" }
+        ]
+      }
+    },
+    "stadium": "Heysel Stadium",
+    "city": "Bruselas",
+    "country": "Bélgica",
+    "attendance": "67,000",
+    "referee": "Albert Alsteen (Bélgica)",
+    "goals": "Real Madrid: Di Stéfano (74'), Rial (79'), Gento (107') | AC Milan: Schiaffino (59'), Grillo (77')"
+  },
+  {
+    "season": "1958-59",
+    "era": "copa-europa",
+    "date": "03/06/1959",
+    "time": "18:00 CET",
+    "winner": "Real Madrid",
+    "runnerUp": "Stade de Reims",
+    "score": "2 - 0",
+    "scoreWinner": "2",
+    "scoreRunnerUp": "0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Luis Carniglia", "pais": "ar" },
+        "formation": "3-2-5",
+        "startingEleven": [
+          { "nombre": "Rogelio Domínguez (P)", "pais": "ar" },
+          { "nombre": "Marquitos Alonso", "pais": "es" },
+          { "nombre": "José Santamaría", "pais": "es" },
+          { "nombre": "José María Zárraga (C)", "pais": "es" },
+          { "nombre": "Juan Santisteban", "pais": "es" },
+          { "nombre": "Antonio Ruiz", "pais": "es" },
+          { "nombre": "Raymond Kopa", "pais": "fr" },
+          { "nombre": "Enrique Mateos", "pais": "es" },
+          { "nombre": "Alfredo Di Stéfano", "pais": "ar" },
+          { "nombre": "Héctor Rial", "pais": "es" },
+          { "nombre": "Paco Gento", "pais": "es" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Albert Batteux", "pais": "fr" },
+        "formation": "",
+        "startingEleven": [
+          { "nombre": "Dominique Colonna (P)", "pais": "fr" },
+          { "nombre": "Bruno Rodzik", "pais": "fr" },
+          { "nombre": "Robert Jonquet (C)", "pais": "fr" },
+          { "nombre": "Raoul Giraudo", "pais": "fr" },
+          { "nombre": "Armand Penverne", "pais": "fr" },
+          { "nombre": "Michel Leblond", "pais": "fr" },
+          { "nombre": "Robert Lamartine", "pais": "fr" },
+          { "nombre": "René Bliard", "pais": "fr" },
+          { "nombre": "Just Fontaine", "pais": "fr" },
+          { "nombre": "Roger Piantoni", "pais": "fr" },
+          { "nombre": "Jean Vincent", "pais": "fr" }
+        ]
+      }
+    },
+    "stadium": "Neckarstadion",
+    "city": "Stuttgart",
+    "country": "Alemania Federal",
+    "attendance": "72,000",
+    "referee": "Albert Dusch (Alemania)",
+    "goals": "Real Madrid: Mateos (1'), Di Stéfano (47')"
+  },
+  {
+    "season": "1959-60",
+    "era": "copa-europa",
+    "date": "18/05/1960",
+    "time": "19:30 CET",
+    "winner": "Real Madrid",
+    "runnerUp": "Eintracht Frankfurt",
+    "score": "7 - 3",
+    "scoreWinner": "7",
+    "scoreRunnerUp": "3",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Miguel Muñoz", "pais": "es" },
+        "formation": "3-2-5",
+        "startingEleven": [
+          { "nombre": "Rogelio Domínguez (P)", "pais": "ar" },
+          { "nombre": "Enrique Pérez Pachín", "pais": "es" },
+          { "nombre": "Marquitos Alonso", "pais": "es" },
+          { "nombre": "José Santamaría", "pais": "es" },
+          { "nombre": "José María Zárraga (C)", "pais": "es" },
+          { "nombre": "José María Vidal", "pais": "es" },
+          { "nombre": "Darcy Silveira (Canário)", "pais": "br" },
+          { "nombre": "Luis del Sol", "pais": "es" },
+          { "nombre": "Alfredo Di Stéfano", "pais": "ar" },
+          { "nombre": "Ferenc Puskás", "pais": "hu" },
+          { "nombre": "Paco Gento", "pais": "es" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Paul Oßwald", "pais": "de" },
+        "formation": "3-2-5",
+        "startingEleven": [
+          { "nombre": "Egon Loy (P)", "pais": "de" },
+          { "nombre": "Friedel Lutz", "pais": "de" },
+          { "nombre": "Hermann Höfer", "pais": "de" },
+          { "nombre": "Hans-Walter Eigenbrodt", "pais": "de" },
+          { "nombre": "Hans Weilbächer (C)", "pais": "de" },
+          { "nombre": "Dieter Stinka", "pais": "de" },
+          { "nombre": "Richard Kreß", "pais": "de" },
+          { "nombre": "Dieter Lindner", "pais": "de" },
+          { "nombre": "Erwin Stein", "pais": "de" },
+          { "nombre": "Alfred Pfaff", "pais": "de" },
+          { "nombre": "Erich Meier", "pais": "de" }
+        ]
+      }
+    },
+    "stadium": "Hampden Park",
+    "city": "Glasgow",
+    "country": "Escocia",
+    "attendance": "127,621",
+    "referee": "Jack Mowat (Escocia)",
+    "goals": "Real Madrid: Di Stéfano (27', 30', 73'), Puskás (45+1', 56' pen., 60', 71') | Frankfurt: Kress (18'), Stein (72', 75')"
+  },
+  {
+    "season": "1960-61",
+    "era": "copa-europa",
+    "date": "31/05/1961",
+    "time": "19:00 CET",
+    "winner": "Benfica",
+    "runnerUp": "FC Barcelona",
+    "score": "3 - 2",
+    "scoreWinner": "3",
+    "scoreRunnerUp": "2",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Béla Guttman", "pais": "hu" },
+        "formation": "3-2-5",
+        "startingEleven": [
+          { "nombre": "Costa Pereira (P)", "pais": "pt" },
+          { "nombre": "Mário João", "pais": "pt" },
+          { "nombre": "Germano de Figueiredo", "pais": "pt" },
+          { "nombre": "Angelo Martins", "pais": "pt" },
+          { "nombre": "José Neto", "pais": "pt" },
+          { "nombre": "Fernando Cruz", "pais": "pt" },
+          { "nombre": "José Augusto", "pais": "pt" },
+          { "nombre": "Joaquim Santana", "pais": "pt" },
+          { "nombre": "José Águas (C)", "pais": "pt" },
+          { "nombre": "Mário Coluna", "pais": "pt" },
+          { "nombre": "Domiciano Cavém", "pais": "pt" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Enrique Orizaola", "pais": "es" },
+        "formation": "3-2-5",
+        "startingEleven": [
+          { "nombre": "Antoni Ramallets (P)(C)", "pais": "es" },
+          { "nombre": "Alfonso Rodríguez Foncho", "pais": "es" },
+          { "nombre": "Enric Gensana", "pais": "es" },
+          { "nombre": "Sígfrid Gracia", "pais": "es" },
+          { "nombre": "Martí Vergés", "pais": "es" },
+          { "nombre": "Jesús Garay", "pais": "es" },
+          { "nombre": "Ladislao Kubala", "pais": "es" },
+          { "nombre": "Sándor Kocsis", "pais": "hu" },
+          { "nombre": "Evaristo Macedo", "pais": "br" },
+          { "nombre": "Luis Suárez", "pais": "es" },
+          { "nombre": "Zoltán Czibor", "pais": "hu" }
+        ]
+      }
+    },
+    "stadium": "Wankdorf Stadium",
+    "city": "Berna",
+    "country": "Suiza",
+    "attendance": "26,732",
+    "referee": "Gottfried Dienst (Suiza)",
+    "goals": "Benfica: Águas (31'), Ramallets (32' p.p.), Coluna (55') | Barcelona: Kocsis (21'), Czibor (75')"
+  },
+  {
+    "season": "1961-62",
+    "era": "copa-europa",
+    "date": "02/05/1962",
+    "time": "19:30 CET",
+    "winner": "Benfica",
+    "runnerUp": "Real Madrid",
+    "score": "5 - 3",
+    "scoreWinner": "5",
+    "scoreRunnerUp": "3",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Béla Guttman", "pais": "hu" },
+        "formation": "3-2-5",
+        "startingEleven": [
+          { "nombre": "Costa Pereira (P)", "pais": "pt" },
+          { "nombre": "Mário João", "pais": "pt" },
+          { "nombre": "Germano de Figueiredo", "pais": "pt" },
+          { "nombre": "Angelo Martins", "pais": "pt" },
+          { "nombre": "Domiciano Cavém", "pais": "pt" },
+          { "nombre": "Fernando Cruz", "pais": "pt" },
+          { "nombre": "José Augusto", "pais": "pt" },
+          { "nombre": "Eusébio da Silva", "pais": "pt" },
+          { "nombre": "José Águas (C)", "pais": "pt" },
+          { "nombre": "Mário Coluna", "pais": "pt" },
+          { "nombre": "António Simões", "pais": "pt" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Miguel Muñoz", "pais": "es" },
+        "formation": "3-2-5",
+        "startingEleven": [
+          { "nombre": "José Araquistáin (P)", "pais": "es" },
+          { "nombre": "Pedro Casado", "pais": "es" },
+          { "nombre": "José Santamaría", "pais": "es" },
+          { "nombre": "Vicente Miera", "pais": "es" },
+          { "nombre": "Rafael Batista Felo", "pais": "es" },
+          { "nombre": "Enrique Pérez Pachín", "pais": "es" },
+          { "nombre": "Justo Tejada", "pais": "es" },
+          { "nombre": "Luis del Sol", "pais": "es" },
+          { "nombre": "Alfredo Di Stéfano", "pais": "ar" },
+          { "nombre": "Ferenc Puskás", "pais": "hu" },
+          { "nombre": "Paco Gento (C)", "pais": "es" }
+        ]
+      }
+    },
+    "stadium": "Olympisch Stadion",
+    "city": "Ámsterdam",
+    "country": "Países Bajos",
+    "attendance": "61,257",
+    "referee": "Leo Horn (Países Bajos)",
+    "goals": "Benfica: Águas (25'), Cavém (34'), Coluna (51'), Eusébio (65' pen., 68') | Real Madrid: Puskás (17', 23', 38')"
+  },
+  {
+    "season": "1962-63",
+    "era": "copa-europa",
+    "date": "22/05/1963",
+    "time": "15:00 CET",
+    "winner": "AC Milan",
+    "runnerUp": "Benfica",
+    "score": "2 - 1",
+    "scoreWinner": "2",
+    "scoreRunnerUp": "1",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Nereo Rocco", "pais": "it" },
+        "formation": "3-2-5",
+        "startingEleven": [
+          { "nombre": "Giorgio Ghezzi (P)", "pais": "it" },
+          { "nombre": "Mario David", "pais": "it" },
+          { "nombre": "Mario Trebbi", "pais": "it" },
+          { "nombre": "Victor Benítez", "pais": "pe" },
+          { "nombre": "Cesare Maldini (C)", "pais": "it" },
+          { "nombre": "Giovanni Trapattoni", "pais": "it" },
+          { "nombre": "Bruno Mora", "pais": "it" },
+          { "nombre": "Dino Sani", "pais": "br" },
+          { "nombre": "José Altafini", "pais": "it" },
+          { "nombre": "Gianni Rivera", "pais": "it" },
+          { "nombre": "Gino Pivatelli", "pais": "it" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Fernando Riera", "pais": "cl" },
+        "formation": "3-2-5",
+        "startingEleven": [
+          { "nombre": "Costa Pereira (P)", "pais": "pt" },
+          { "nombre": "Domiciano Cavém", "pais": "pt" },
+          { "nombre": "Fernando Cruz", "pais": "pt" },
+          { "nombre": "Humberto Fernandes", "pais": "pt" },
+          { "nombre": "Raúl Machado", "pais": "pt" },
+          { "nombre": "Mário Coluna (C)", "pais": "pt" },
+          { "nombre": "José Augusto", "pais": "pt" },
+          { "nombre": "Joaquim Santana", "pais": "pt" },
+          { "nombre": "José Torres", "pais": "pt" },
+          { "nombre": "Eusébio da Silva", "pais": "pt" },
+          { "nombre": "António Simões", "pais": "pt" }
+        ]
+      }
+    },
+    "stadium": "Wembley Stadium",
+    "city": "Londres",
+    "country": "Inglaterra",
+    "attendance": "45,715",
+    "referee": "Arthur Holland (Inglaterra)",
+    "goals": "AC Milan: Altafini (58', 69') | Benfica: Eusébio (19')"
+  },
+  {
+    "season": "1963-64",
+    "era": "copa-europa",
+    "date": "27/05/1964",
+    "time": "19:30 CET",
+    "winner": "Inter de Milán",
+    "runnerUp": "Real Madrid",
+    "score": "3 - 1",
+    "scoreWinner": "3",
+    "scoreRunnerUp": "1",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Helenio Herrera", "pais": "ar" },
+        "formation": "4-3-3",
+        "startingEleven": [
+          { "nombre": "Giuliano Sarti (P)", "pais": "it" },
+          { "nombre": "Armando Picchi (C)", "pais": "it" },
+          { "nombre": "Tarcisio Burgnich", "pais": "it" },
+          { "nombre": "Giacinto Facchetti", "pais": "it" },
+          { "nombre": "Aristide Guarneri", "pais": "it" },
+          { "nombre": "Carlo Tagnin", "pais": "it" },
+          { "nombre": "Sandro Mazzola", "pais": "it" },
+          { "nombre": "Luis Suárez", "pais": "es" },
+          { "nombre": "Jair da Costa", "pais": "br" },
+          { "nombre": "Mario Corso", "pais": "it" },
+          { "nombre": "Aurelio Milani", "pais": "it" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Miguel Muñoz", "pais": "es" },
+        "formation": "3-2-5",
+        "startingEleven": [
+          { "nombre": "Vicente Train (P)", "pais": "es" },
+          { "nombre": "Isidro Sánchez", "pais": "es" },
+          { "nombre": "Enrique Pérez Pachín", "pais": "es" },
+          { "nombre": "José Santamaría", "pais": "es" },
+          { "nombre": "Ignacio Zoco", "pais": "es" },
+          { "nombre": "Lucien Müller", "pais": "fr" },
+          { "nombre": "Amancio Amaro", "pais": "es" },
+          { "nombre": "Felo Batista", "pais": "es" },
+          { "nombre": "Alfredo Di Stéfano", "pais": "es" },
+          { "nombre": "Ferenc Puskás", "pais": "hu" },
+          { "nombre": "Paco Gento (C)", "pais": "es" }
+        ]
+      }
+    },
+    "stadium": "Praterstadion",
+    "city": "Viena",
+    "country": "Austria",
+    "attendance": "71,333",
+    "referee": "Josef Stoll (Austria)",
+    "goals": "Inter: Mazzola (43', 76'), Milani (61') | Real Madrid: Felo (70')"
+  },
+  {
+    "season": "1964-65",
+    "era": "copa-europa",
+    "date": "27/05/1965",
+    "time": "21:30 CET",
+    "winner": "Inter de Milán",
+    "runnerUp": "Benfica",
+    "score": "1 - 0",
+    "scoreWinner": "1",
+    "scoreRunnerUp": "0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Helenio Herrera", "pais": "ar" },
+        "formation": "3-2-5",
+        "startingEleven": [
+          { "nombre": "Giuliano Sarti (P)", "pais": "it" },
+          { "nombre": "Tarcisio Burgnich", "pais": "it" },
+          { "nombre": "Aristide Guarneri", "pais": "it" },
+          { "nombre": "Giacinto Facchetti", "pais": "it" },
+          { "nombre": "Gianfranco Bedin", "pais": "it" },
+          { "nombre": "Armando Picchi (C)", "pais": "it" },
+          { "nombre": "Jair da Costa", "pais": "br" },
+          { "nombre": "Sandro Mazzola", "pais": "it" },
+          { "nombre": "Joaquín Peiró", "pais": "es" },
+          { "nombre": "Luis Suárez", "pais": "es" },
+          { "nombre": "Mario Corso", "pais": "it" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Elek Schwartz", "pais": "ro" },
+        "formation": "3-2-5",
+        "startingEleven": [
+          { "nombre": "Costa Pereira (P)", "pais": "pt" },
+          { "nombre": "Domiciano Cavém", "pais": "pt" },
+          { "nombre": "Fernando Cruz", "pais": "pt" },
+          { "nombre": "Germano de Figueiredo", "pais": "pt" },
+          { "nombre": "Raúl Machado", "pais": "pt" },
+          { "nombre": "José Neto", "pais": "pt" },
+          { "nombre": "José Augusto", "pais": "pt" },
+          { "nombre": "Mário Coluna (C)", "pais": "pt" },
+          { "nombre": "José Torres", "pais": "pt" },
+          { "nombre": "Eusébio da Silva", "pais": "pt" },
+          { "nombre": "António Simões", "pais": "pt" }
+        ]
+      }
+    },
+    "stadium": "San Siro",
+    "city": "Milán",
+    "country": "Italia",
+    "attendance": "89,000",
+    "referee": "Gottfried Dienst (Suiza)",
+    "goals": "Inter: Jair (43')"
+  },
+  {
+    "season": "1965-66",
+    "era": "copa-europa",
+    "date": "11/05/1966",
+    "time": "19:30 CET",
+    "winner": "Real Madrid",
+    "runnerUp": "Partizán de Belgrado",
+    "score": "2 - 1",
+    "scoreWinner": "2",
+    "scoreRunnerUp": "1",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Miguel Muñoz", "pais": "es" },
+        "formation": "4-2-4",
+        "startingEleven": [
+          { "nombre": "José Araquistáin (P)", "pais": "es" },
+          { "nombre": "Enrique Pérez Pachín", "pais": "es" },
+          { "nombre": "Pedro de Felipe", "pais": "es" },
+          { "nombre": "Ignacio Zoco", "pais": "es" },
+          { "nombre": "Manuel Sanchís", "pais": "es" },
+          { "nombre": "José Martínez Pirri", "pais": "es" },
+          { "nombre": "Manuel Velázquez", "pais": "es" },
+          { "nombre": "Fernando Serena", "pais": "es" },
+          { "nombre": "Amancio Amaro", "pais": "es" },
+          { "nombre": "Ramón Grosso", "pais": "es" },
+          { "nombre": "Paco Gento (C)", "pais": "es" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Abdulah Gegić", "pais": "ba" },
+        "formation": "4-2-4",
+        "startingEleven": [
+          { "nombre": "Milutin Šoškić (P)(C)", "pais": "rs" },
+          { "nombre": "Fahrudin Jusufi", "pais": "rs" },
+          { "nombre": "Velibor Vasović", "pais": "rs" },
+          { "nombre": "Branko Rašović", "pais": "me" },
+          { "nombre": "Ljubomir Mihajlović", "pais": "rs" },
+          { "nombre": "Vladica Kovačević", "pais": "rs" },
+          { "nombre": "Radoslav Bečejac", "pais": "rs" },
+          { "nombre": "Mane Bajić", "pais": "rs" },
+          { "nombre": "Mustafa Hasanagić", "pais": "rs" },
+          { "nombre": "Milan Galić", "pais": "rs" },
+          { "nombre": "Josip Pirmajer", "pais": "si" }
+        ]
+      }
+    },
+    "stadium": "Heysel Stadium",
+    "city": "Bruselas",
+    "country": "Bélgica",
+    "attendance": "46,745",
+    "referee": "Rudolf Kreitlein (Alemania)",
+    "goals": "Real Madrid: Amancio (70'), Serena (76') | Partizán: Vasović (55')"
+  },
+  {
+    "season": "1966-67",
+    "era": "copa-europa",
+    "date": "25/05/1967",
+    "time": "17:30 WEST",
+    "winner": "Celtic",
+    "runnerUp": "Inter de Milán",
+    "score": "2 - 1",
+    "scoreWinner": "2",
+    "scoreRunnerUp": "1",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Jock Stein", "pais": "gb-sct" },
+        "formation": "4-2-4",
+        "startingEleven": [
+          { "nombre": "Ronnie Simpson (P)", "pais": "gb-sct" },
+          { "nombre": "Jim Craig", "pais": "gb-sct" },
+          { "nombre": "Billy McNeill (C)", "pais": "gb-sct" },
+          { "nombre": "John Clark", "pais": "gb-sct" },
+          { "nombre": "Tommy Gemmell", "pais": "gb-sct" },
+          { "nombre": "Bobby Murdoch", "pais": "gb-sct" },
+          { "nombre": "Bertie Auld", "pais": "gb-sct" },
+          { "nombre": "Jimmy Johnstone", "pais": "gb-sct" },
+          { "nombre": "William Wallace", "pais": "gb-sct" },
+          { "nombre": "Stevie Chalmers", "pais": "gb-sct" },
+          { "nombre": "Bobby Lennox", "pais": "gb-sct" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Helenio Herrera", "pais": "ar" },
+        "formation": "4-4-1",
+        "startingEleven": [
+          { "nombre": "Giuliano Sarti (P)", "pais": "it" },
+          { "nombre": "Tarcisio Burgnich", "pais": "it" },
+          { "nombre": "Armando Picchi (C)", "pais": "it" },
+          { "nombre": "Giacinto Facchetti", "pais": "it" },
+          { "nombre": "Aristide Guarneri", "pais": "it" },
+          { "nombre": "Giancarlo Bedin", "pais": "it" },
+          { "nombre": "Angelo Domenghini", "pais": "it" },
+          { "nombre": "Sandro Mazzola", "pais": "it" },
+          { "nombre": "Mauro Bicicli", "pais": "it" },
+          { "nombre": "Mario Corso", "pais": "it" },
+          { "nombre": "Renato Cappellini", "pais": "it" }
+        ]
+      }
+    },
+    "stadium": "Estádio Nacional",
+    "city": "Lisboa",
+    "country": "Portugal",
+    "attendance": "45,000",
+    "referee": "Kurt Tschenscher (Alemania)",
+    "goals": "Celtic: Gemmell (63'), Chalmers (84') | Inter: Mazzola (7' pen.)",
+    "nota": "es el primer equipo en toda la historia en completar el famoso triplete de la temporada (Liga de Nacion - Copa de Nacion - Copa de Europa )"
+  },
+  {
+    "season": "1967-68",
+    "era": "copa-europa",
+    "date": "29/05/1968",
+    "time": "19:45 BST",
+    "winner": "Manchester United",
+    "runnerUp": "Benfica",
+    "score": "4 - 1 (t.s.)",
+    "scoreWinner": "4 (t.",
+    "scoreRunnerUp": "s.) 1",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Matt Busby", "pais": "gb-sct" },
+        "formation": "4-3-3",
+        "startingEleven": [
+          { "nombre": "Alex Stepney (P)", "pais": "gb-eng" },
+          { "nombre": "Shay Brennan", "pais": "ie" },
+          { "nombre": "Bill Foulkes", "pais": "gb-eng" },
+          { "nombre": "David Sadler", "pais": "gb-eng" },
+          { "nombre": "Tony Dunne", "pais": "ie" },
+          { "nombre": "Pat Crerand", "pais": "gb-sct" },
+          { "nombre": "Nobby Stiles", "pais": "gb-eng" },
+          { "nombre": "Bobby Charlton (C)", "pais": "gb-eng" },
+          { "nombre": "George Best", "pais": "gb-nir" },
+          { "nombre": "Brian Kidd", "pais": "gb-eng" },
+          { "nombre": "John Aston", "pais": "gb-eng" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Otto Glória", "pais": "br" },
+        "formation": "4-3-3",
+        "startingEleven": [
+          { "nombre": "José Henrique (P)", "pais": "pt" },
+          { "nombre": "Adolfo Calisto", "pais": "pt" },
+          { "nombre": "Humberto Fernandes", "pais": "pt" },
+          { "nombre": "Jacinto Santos", "pais": "pt" },
+          { "nombre": "Fernando Cruz", "pais": "pt" },
+          { "nombre": "Jaime Graça", "pais": "pt" },
+          { "nombre": "Mário Coluna (C)", "pais": "pt" },
+          { "nombre": "José Augusto", "pais": "pt" },
+          { "nombre": "José Torres", "pais": "pt" },
+          { "nombre": "Eusébio da Silva", "pais": "pt" },
+          { "nombre": "António Simões", "pais": "pt" }
+        ]
+      }
+    },
+    "stadium": "Wembley Stadium",
+    "city": "Londres",
+    "country": "Inglaterra",
+    "attendance": "92,225",
+    "referee": "Concetto Lo Bello (Italia)",
+    "goals": "Man. United: Charlton (53', 99'), Best (92'), Kidd (94') | Benfica: Graça (79')"
+  },
+  {
+    "season": "1968-69",
+    "era": "copa-europa",
+    "date": "28/05/1969",
+    "time": "21:00 CET",
+    "winner": "AC Milan",
+    "runnerUp": "Ajax",
+    "score": "4 - 1",
+    "scoreWinner": "4",
+    "scoreRunnerUp": "1",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Nereo Rocco", "pais": "it" },
+        "formation": "",
+        "startingEleven": [
+          { "nombre": "Fabio Cudicini (P)", "pais": "it" },
+          { "nombre": "Angelo Anquilletti", "pais": "it" },
+          { "nombre": "Karl-Heinz Schnellinger", "pais": "de" },
+          { "nombre": "Roberto Rosato", "pais": "it" },
+          { "nombre": "Saul Malatrasi", "pais": "it" },
+          { "nombre": "Giovanni Trapattoni", "pais": "it" },
+          { "nombre": "Kurt Hamrin", "pais": "se" },
+          { "nombre": "Giovanni Lodetti", "pais": "it" },
+          { "nombre": "Angelo Benedicto Sormani", "pais": "it" },
+          { "nombre": "Gianni Rivera (C)", "pais": "it" },
+          { "nombre": "Pierino Prati", "pais": "it" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Rinus Michels", "pais": "nl" },
+        "formation": "",
+        "startingEleven": [
+          { "nombre": "Gerrit Bals (P)(C)", "pais": "nl" },
+          { "nombre": "Wim Suurbier", "pais": "nl" },
+          { "nombre": "Barry Hulshoff", "pais": "nl" },
+          { "nombre": "Velibor Vasović", "pais": "rs" },
+          { "nombre": "Theo van Duivenbode", "pais": "nl" },
+          { "nombre": "Anton Pronk", "pais": "nl" },
+          { "nombre": "Hendrik Groot", "pais": "nl" },
+          { "nombre": "Sjaak Swart", "pais": "nl" },
+          { "nombre": "Inge Danielsson", "pais": "se" },
+          { "nombre": "Johan Cruyff", "pais": "nl" },
+          { "nombre": "Piet Keizer", "pais": "nl" }
+        ]
+      }
+    },
+    "stadium": "Santiago Bernabéu",
+    "city": "Madrid",
+    "country": "España",
+    "attendance": "31,782",
+    "referee": "José María Ortiz de Mendíbil (España)",
+    "goals": "AC Milan: Prati (7', 40', 75'), Sormani (67') | Ajax: Vasović (60' pen.)"
+  },
+  {
+    "season": "1969-70",
+    "era": "copa-europa",
+    "date": "06/05/1970",
+    "time": "21:00 CET",
+    "winner": "Feyenoord",
+    "runnerUp": "Celtic",
+    "score": "2 - 1 (t.s.)",
+    "scoreWinner": "2 (t.",
+    "scoreRunnerUp": "s.) 1",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Ernst Happel", "pais": "at" },
+        "formation": "",
+        "startingEleven": [
+          { "nombre": "Eddy Pieters Graafland (P)", "pais": "nl" },
+          { "nombre": "Piet Romeijn", "pais": "nl" },
+          { "nombre": "Theo Laseroms", "pais": "nl" },
+          { "nombre": "Rinus Israël (C)", "pais": "nl" },
+          { "nombre": "Theo van Duivenbode", "pais": "nl" },
+          { "nombre": "Franz Hasil", "pais": "at" },
+          { "nombre": "Wim Jansen", "pais": "nl" },
+          { "nombre": "Willem van Hanegem", "pais": "nl" },
+          { "nombre": "Henk Wery", "pais": "nl" },
+          { "nombre": "Ove Kindvall", "pais": "se" },
+          { "nombre": "Coen Moulijn", "pais": "nl" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Jock Stein", "pais": "gb-sct" },
+        "formation": "",
+        "startingEleven": [
+          { "nombre": "Evan Williams (P)", "pais": "gb-sct" },
+          { "nombre": "David Hay", "pais": "gb-sct" },
+          { "nombre": "Jim Brogan", "pais": "gb-sct" },
+          { "nombre": "Billy McNeill (C)", "pais": "gb-sct" },
+          { "nombre": "Tommy Gemmell", "pais": "gb-sct" },
+          { "nombre": "Bobby Murdoch", "pais": "gb-sct" },
+          { "nombre": "Bertie Auld", "pais": "gb-sct" },
+          { "nombre": "Jimmy Johnstone", "pais": "gb-sct" },
+          { "nombre": "Bobby Lennox", "pais": "gb-sct" },
+          { "nombre": "William Wallace", "pais": "gb-sct" },
+          { "nombre": "John Hughes", "pais": "gb-sct" }
+        ]
+      }
+    },
+    "stadium": "San Siro",
+    "city": "Milán",
+    "country": "Italia",
+    "attendance": "53,187",
+    "referee": "Concetto Lo Bello (Italia)",
+    "goals": "Feyenoord: Israël (32'), Kindvall (116') | Celtic: Gemmell (30')"
+  },
+  {
+    "season": "1970-71",
+    "era": "copa-europa",
+    "date": "02/06/1971",
+    "time": "20:00 BST",
+    "winner": "Ajax",
+    "runnerUp": "Panathinaikos",
+    "score": "2 - 0",
+    "scoreWinner": "2",
+    "scoreRunnerUp": "0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Rinus Michels", "pais": "nl" },
+        "formation": "",
+        "startingEleven": [
+          { "nombre": "Heinz Stuy (P)", "pais": "nl" },
+          { "nombre": "Johan Neeskens", "pais": "nl" },
+          { "nombre": "Barry Hulshoff", "pais": "nl" },
+          { "nombre": "Velibor Vasović (C)", "pais": "rs" },
+          { "nombre": "Wim Suurbier", "pais": "nl" },
+          { "nombre": "Nico Rijnders", "pais": "nl" },
+          { "nombre": "Gerrie Mühren", "pais": "nl" },
+          { "nombre": "Sjaak Swart", "pais": "nl" },
+          { "nombre": "Johan Cruyff", "pais": "nl" },
+          { "nombre": "Dick van Dijk", "pais": "nl" },
+          { "nombre": "Piet Keizer", "pais": "nl" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Ferenc Puskás", "pais": "hu" },
+        "formation": "4-3-3",
+        "startingEleven": [
+          { "nombre": "Takis Ikonomopoulos (P)", "pais": "gr" },
+          { "nombre": "Yianis Tomaras", "pais": "gr" },
+          { "nombre": "Anthimos Kapsis", "pais": "gr" },
+          { "nombre": "Frangiskos Sourpis", "pais": "gr" },
+          { "nombre": "Giorgios Vlahos", "pais": "gr" },
+          { "nombre": "Aristidis Kamaras", "pais": "gr" },
+          { "nombre": "Kostas Eleftherakis", "pais": "gr" },
+          { "nombre": "Haris Grammos", "pais": "gr" },
+          { "nombre": "Mimis Domazos (C)", "pais": "gr" },
+          { "nombre": "Antonis Antoniadis", "pais": "gr" },
+          { "nombre": "Totis Filakouris", "pais": "gr" }
+        ]
+      }
+    },
+    "stadium": "Wembley Stadium",
+    "city": "Londres",
+    "country": "Inglaterra",
+    "attendance": "83,179",
+    "referee": "Jack Taylor (Inglaterra)",
+    "goals": "Ajax: van Dijk (5'), Haan (87')"
+  },
+  {
+    "season": "1971-72",
+    "era": "copa-europa",
+    "date": "31/05/1972",
+    "time": "20:30 CET",
+    "winner": "Ajax",
+    "runnerUp": "Inter de Milán",
+    "score": "2 - 0",
+    "scoreWinner": "2",
+    "scoreRunnerUp": "0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Ștefan Kovács", "pais": "ro" },
+        "formation": "",
+        "startingEleven": [
+          { "nombre": "Heinz Stuy (P)", "pais": "nl" },
+          { "nombre": "Wim Suurbier", "pais": "nl" },
+          { "nombre": "Horst Blankenburg", "pais": "de" },
+          { "nombre": "Barry Hulshoff", "pais": "nl" },
+          { "nombre": "Ruud Krol", "pais": "nl" },
+          { "nombre": "Johan Neeskens", "pais": "nl" },
+          { "nombre": "Arie Haan", "pais": "nl" },
+          { "nombre": "Gerrie Mühren", "pais": "nl" },
+          { "nombre": "Sjaak Swart", "pais": "nl" },
+          { "nombre": "Johan Cruyff", "pais": "nl" },
+          { "nombre": "Piet Keizer (C)", "pais": "nl" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Giovanni Invernizzi", "pais": "it" },
+        "formation": "4-3-3",
+        "startingEleven": [
+          { "nombre": "Ivano Bordon (P)", "pais": "it" },
+          { "nombre": "Tarcisio Burgnich", "pais": "it" },
+          { "nombre": "Giacinto Facchetti", "pais": "it" },
+          { "nombre": "Mauro Bellugi", "pais": "it" },
+          { "nombre": "Gabriele Oriali", "pais": "it" },
+          { "nombre": "Mario Giubertoni", "pais": "it" },
+          { "nombre": "Gianfranco Bedin", "pais": "it" },
+          { "nombre": "Mario Frustalupi", "pais": "it" },
+          { "nombre": "Jair da Costa", "pais": "br" },
+          { "nombre": "Sandro Mazzola (C)", "pais": "it" },
+          { "nombre": "Roberto Boninsegna", "pais": "it" }
+        ]
+      }
+    },
+    "stadium": "De Kuip",
+    "city": "Róterdam",
+    "country": "Países Bajos",
+    "attendance": "61,354",
+    "referee": "Robert Héliès (Francia)",
+    "goals": "Ajax: Cruyff (47', 78')"
+  },
+  {
+    "season": "1972-73",
+    "era": "copa-europa",
+    "date": "30/05/1973",
+    "time": "20:30 CET",
+    "winner": "Ajax",
+    "runnerUp": "Juventus",
+    "score": "1 - 0",
+    "scoreWinner": "1",
+    "scoreRunnerUp": "0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Stefan Kovacs", "pais": "ro" },
+        "formation": "",
+        "startingEleven": [
+          { "nombre": "Heinz Stuy (P)", "pais": "nl" },
+          { "nombre": "Wim Suurbier", "pais": "nl" },
+          { "nombre": "Barry Hulshoff", "pais": "nl" },
+          { "nombre": "Horst Blankenburg", "pais": "de" },
+          { "nombre": "Ruud Krol", "pais": "nl" },
+          { "nombre": "Johan Neeskens", "pais": "nl" },
+          { "nombre": "Gerrie Mühren", "pais": "nl" },
+          { "nombre": "Arie Haan", "pais": "nl" },
+          { "nombre": "Johnny Rep", "pais": "nl" },
+          { "nombre": "Johan Cruyff (C)", "pais": "nl" },
+          { "nombre": "Piet Keizer", "pais": "nl" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Čestmír Vycpálek", "pais": "cz" },
+        "formation": "",
+        "startingEleven": [
+          { "nombre": "Dino Zoff (P)", "pais": "it" },
+          { "nombre": "Sandro Salvadore (C)", "pais": "it" },
+          { "nombre": "Gianpiero Marchetti", "pais": "it" },
+          { "nombre": "Francesco Morini", "pais": "it" },
+          { "nombre": "Silvio Longobucco", "pais": "it" },
+          { "nombre": "Franco Causio", "pais": "it" },
+          { "nombre": "Giuseppe Furino", "pais": "it" },
+          { "nombre": "Fabio Capello", "pais": "it" },
+          { "nombre": "José Altafini", "pais": "it" },
+          { "nombre": "Pietro Anastasi", "pais": "it" },
+          { "nombre": "Roberto Bettega", "pais": "it" }
+        ]
+      }
+    },
+    "stadium": "Crvena Zvezda Stadium",
+    "city": "Belgrado",
+    "country": "Yugoslavia",
+    "attendance": "89,484",
+    "referee": "Milivoje Gugulović (Yugoslavia)",
+    "goals": "Ajax: Rep (5')"
+  },
+  {
+    "season": "1973-74",
+    "era": "copa-europa",
+    "date": "17/05/1974",
+    "time": "20:00 CET",
+    "winner": "Bayern Múnich",
+    "runnerUp": "Atlético de Madrid",
+    "score": "4 - 0 (Desempate)",
+    "scoreWinner": "1 (Partido de (4",
+    "scoreRunnerUp": "0) Desempate) 1",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Udo Lattek", "pais": "de" },
+        "formation": "",
+        "startingEleven": [
+          { "nombre": "Sepp Maier (P)", "pais": "de" },
+          { "nombre": "Johnny Hansen", "pais": "dk" },
+          { "nombre": "Paul Breitner", "pais": "de" },
+          { "nombre": "Georg Schwarzenbeck", "pais": "de" },
+          { "nombre": "Franz Beckenbauer (C)", "pais": "de" },
+          { "nombre": "Franz Roth", "pais": "de" },
+          { "nombre": "Rainer Zobel", "pais": "de" },
+          { "nombre": "Uli Hoeneß", "pais": "de" },
+          { "nombre": "Jupp Kapellmann", "pais": "de" },
+          { "nombre": "Conny Torstensson", "pais": "se" },
+          { "nombre": "Gerd Müller", "pais": "de" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Juan Carlos Lorenzo", "pais": "ar" },
+        "formation": "",
+        "startingEleven": [
+          { "nombre": "Miguel Reina (P)", "pais": "es" },
+          { "nombre": "Francisco Melo", "pais": "es" },
+          { "nombre": "José Luis Capón", "pais": "es" },
+          { "nombre": "Adelardo Rodríguez (C)", "pais": "es" },
+          { "nombre": "Ramón Heredia", "pais": "ar" },
+          { "nombre": "Luis Aragonés", "pais": "es" },
+          { "nombre": "Eusebio Bejarano", "pais": "es" },
+          { "nombre": "Heraldo Becerra", "pais": "es" },
+          { "nombre": "José Eulogio Gárate", "pais": "es" },
+          { "nombre": "Alberto Fernández Fernández", "pais": "es" },
+          { "nombre": "Ignacio Salcedo", "pais": "es" }
+        ]
+      }
+    },
+    "stadium": "Heysel Stadium",
+    "city": "Bruselas",
+    "country": "Bélgica",
+    "attendance": "23,325",
+    "referee": "Alfred Delcourt (Bélgica)",
+    "goals": "Bayern: U. Hoeness (28', 83'), Müller (58', 71') | [Primer partido 15/05 terminó 1-1 t.s.]",
+    "nota": "El partido de desempate se jugó porque en 1974 no existía la tanda de penaltis para definir la final de la Copa de Europa si el encuentro terminaba empatado tras la prórroga."
+  },
+  {
+    "season": "1974-75",
+    "era": "copa-europa",
+    "date": "28/05/1975",
+    "time": "20:15 CET",
+    "winner": "Bayern Múnich",
+    "runnerUp": "Leeds United",
+    "score": "2 - 0",
+    "scoreWinner": "2",
+    "scoreRunnerUp": "0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Dettmar Cramer", "pais": "de" },
+        "formation": "4-3-3",
+        "startingEleven": [
+          { "nombre": "Sepp Maier (P)", "pais": "de" },
+          { "nombre": "Franz Beckenbauer (C)", "pais": "de" },
+          { "nombre": "Hans-Georg Schwarzenbeck", "pais": "de" },
+          { "nombre": "Bernd Dürnberger", "pais": "de" },
+          { "nombre": "Björn Andersson", "pais": "se" },
+          { "nombre": "Rainer Zobel", "pais": "de" },
+          { "nombre": "Franz Roth", "pais": "de" },
+          { "nombre": "Jupp Kapellmann", "pais": "de" },
+          { "nombre": "Uli Hoeneß", "pais": "de" },
+          { "nombre": "Gerd Müller", "pais": "de" },
+          { "nombre": "Conny Torstensson", "pais": "se" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Jimmy Armfield", "pais": "gb-eng" },
+        "formation": "",
+        "startingEleven": [
+          { "nombre": "David Stewart (P)", "pais": "gb-sct" },
+          { "nombre": "Paul Reaney", "pais": "gb-eng" },
+          { "nombre": "Frank Gray", "pais": "gb-sct" },
+          { "nombre": "Paul Madeley", "pais": "gb-eng" },
+          { "nombre": "Norman Hunter", "pais": "gb-eng" },
+          { "nombre": "Billy Bremner (C)", "pais": "gb-sct" },
+          { "nombre": "Johnny Giles", "pais": "ie" },
+          { "nombre": "Terry Yorath", "pais": "gb-wls" },
+          { "nombre": "Peter Lorimer", "pais": "gb-sct" },
+          { "nombre": "Allan Clarke", "pais": "gb-eng" },
+          { "nombre": "Joe Jordan", "pais": "gb-sct" }
+        ]
+      }
+    },
+    "stadium": "Parc des Princes",
+    "city": "París",
+    "country": "Francia",
+    "attendance": "48,374",
+    "referee": "Michel Kitabdjian (Francia)",
+    "goals": "Bayern: Roth (71'), Müller (81')"
+  },
+  {
+    "season": "1975-76",
+    "era": "copa-europa",
+    "date": "12/05/1976",
+    "time": "20:15 CET",
+    "winner": "Bayern Múnich",
+    "runnerUp": "Saint-Étienne",
+    "score": "1 - 0",
+    "scoreWinner": "1",
+    "scoreRunnerUp": "0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Dettmar Cramer", "pais": "de" },
+        "formation": "4-3-3",
+        "startingEleven": [
+          { "nombre": "Sepp Maier (P)", "pais": "de" },
+          { "nombre": "Johnny Hansen", "pais": "dk" },
+          { "nombre": "Hans-Georg Schwarzenbeck", "pais": "de" },
+          { "nombre": "Franz Beckenbauer (C)", "pais": "de" },
+          { "nombre": "Udo Horsmann", "pais": "de" },
+          { "nombre": "Bernd Dürnberger", "pais": "de" },
+          { "nombre": "Franz Roth", "pais": "de" },
+          { "nombre": "Jupp Kapellmann", "pais": "de" },
+          { "nombre": "Karl-Heinz Rummenigge", "pais": "de" },
+          { "nombre": "Gerd Müller", "pais": "de" },
+          { "nombre": "Uli Hoeneß", "pais": "de" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Robert Herbin", "pais": "fr" },
+        "formation": "",
+        "startingEleven": [
+          { "nombre": "Ivan Ćurković (P)", "pais": "rs" },
+          { "nombre": "Gérard Janvion", "pais": "fr" },
+          { "nombre": "Osvaldo Piazza", "pais": "ar" },
+          { "nombre": "Christian Lopez", "pais": "fr" },
+          { "nombre": "Pierre Repellini", "pais": "fr" },
+          { "nombre": "Dominique Bathenay", "pais": "fr" },
+          { "nombre": "Patrick Revelli", "pais": "fr" },
+          { "nombre": "Jean-Michel Larqué (C)", "pais": "fr" },
+          { "nombre": "Patrick Revelli", "pais": "fr" },
+          { "nombre": "Hervé Revelli", "pais": "fr" },
+          { "nombre": "Christian Sarramagna", "pais": "fr" }
+        ]
+      }
+    },
+    "stadium": "Hampden Park",
+    "city": "Glasgow",
+    "country": "Escocia",
+    "attendance": "54,864",
+    "referee": "Károly Palotai (Hungría)",
+    "goals": "Bayern: Roth (57')"
+  },
+  {
+    "season": "1976-77",
+    "era": "copa-europa",
+    "date": "25/05/1977",
+    "time": "20:15 CET",
+    "winner": "Liverpool",
+    "runnerUp": "Borussia Mönchengladbach",
+    "score": "3 - 1",
+    "scoreWinner": "3",
+    "scoreRunnerUp": "1",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Bob Paisley", "pais": "gb-eng" },
+        "formation": "4-5-1",
+        "startingEleven": [
+          { "nombre": "Ray Clemence (P)", "pais": "gb-eng" },
+          { "nombre": "Phil Neal", "pais": "gb-eng" },
+          { "nombre": "Joey Jones", "pais": "gb-wls" },
+          { "nombre": "Tommy Smith", "pais": "gb-eng" },
+          { "nombre": "Emlyn Hughes (C)", "pais": "gb-eng" },
+          { "nombre": "Ray Kennedy", "pais": "gb-eng" },
+          { "nombre": "Jimmy Case", "pais": "gb-eng" },
+          { "nombre": "Steve Heighway", "pais": "ie" },
+          { "nombre": "Ian Callaghan", "pais": "gb-eng" },
+          { "nombre": "Terry McDermott", "pais": "gb-eng" },
+          { "nombre": "Kevin Keegan", "pais": "gb-eng" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Udo Lattek", "pais": "de" },
+        "formation": "3-5-2",
+        "startingEleven": [
+          { "nombre": "Wolfgang Kneib", "pais": "de" },
+          { "nombre": "Berti Vogts (C)", "pais": "de" },
+          { "nombre": "Hans Klinkhammer", "pais": "de" },
+          { "nombre": "Hans-Jürgen Wittkamp", "pais": "de" },
+          { "nombre": "Rainer Bonhof", "pais": "de" },
+          { "nombre": "Horst Wohlers", "pais": "de" },
+          { "nombre": "Allan Simonsen", "pais": "dk" },
+          { "nombre": "Herbert Wimmer", "pais": "de" },
+          { "nombre": "Uli Stielike", "pais": "de" },
+          { "nombre": "Frank Schäfer", "pais": "de" },
+          { "nombre": "Jupp Heynckes", "pais": "de" }
+        ]
+      }
+    },
+    "stadium": "Stadio Olimpico",
+    "city": "Roma",
+    "country": "Italia",
+    "attendance": "57,000",
+    "referee": "Robert Wurtz (Francia)",
+    "goals": "Liverpool: McDermott (28'), Smith (64'), Neal (82' pen.) | Mönchengladbach: Simonsen (52')"
+  },
+  {
+    "season": "1977-78",
+    "era": "copa-europa",
+    "date": "10/05/1978",
+    "time": "19:15 BST",
+    "winner": "Liverpool",
+    "runnerUp": "Club Brujas",
+    "score": "1 - 0",
+    "scoreWinner": "1",
+    "scoreRunnerUp": "0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Bob Paisley", "pais": "gb-eng" },
+        "formation": "",
+        "startingEleven": [
+          { "nombre": "Ray Clemence (P)", "pais": "gb-eng" },
+          { "nombre": "Phil Neal", "pais": "gb-eng" },
+          { "nombre": "Phil Thompson", "pais": "gb-eng" },
+          { "nombre": "Alan Hansen", "pais": "gb-sct" },
+          { "nombre": "Ray Kennedy", "pais": "gb-eng" },
+          { "nombre": "Emlyn Hughes (C)", "pais": "gb-eng" },
+          { "nombre": "Jimmy Case", "pais": "gb-eng" },
+          { "nombre": "Terry McDermott", "pais": "gb-eng" },
+          { "nombre": "Graeme Souness", "pais": "gb-sct" },
+          { "nombre": "Kenny Dalglish", "pais": "gb-sct" },
+          { "nombre": "David Fairclough", "pais": "gb-eng" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Ernst Happel", "pais": "at" },
+        "formation": "",
+        "startingEleven": [
+          { "nombre": "Birger Jensen (P)", "pais": "dk" },
+          { "nombre": "Fons Bastijns (C)", "pais": "be" },
+          { "nombre": "Gino Maes", "pais": "be" },
+          { "nombre": "Edi Krieger", "pais": "at" },
+          { "nombre": "Georges Leekens", "pais": "be" },
+          { "nombre": "Julien Cools", "pais": "be" },
+          { "nombre": "Dany Decubber", "pais": "be" },
+          { "nombre": "René Vandereycken", "pais": "be" },
+          { "nombre": "Jan Simoen", "pais": "be" },
+          { "nombre": "Hungría Lajos Kü", "pais": "" },
+          { "nombre": "Jan Sørensen", "pais": "dk" }
+        ]
+      }
+    },
+    "stadium": "Wembley Stadium",
+    "city": "Londres",
+    "country": "Inglaterra",
+    "attendance": "92,500",
+    "referee": "Charles Corver (Países Bajos)",
+    "goals": "Liverpool: Dalglish (64')"
+  },
+  {
+    "season": "1978-79",
+    "era": "copa-europa",
+    "date": "30/05/1979",
+    "time": "20:15 CEST",
+    "winner": "Nottingham Forest",
+    "runnerUp": "Malmö FF",
+    "score": "1 - 0",
+    "scoreWinner": "1",
+    "scoreRunnerUp": "0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Brian Clough", "pais": "gb-eng" },
+        "formation": "",
+        "startingEleven": [
+          { "nombre": "Peter Shilton (P)", "pais": "gb-eng" },
+          { "nombre": "Viv Anderson", "pais": "gb-eng" },
+          { "nombre": "Frank Clark", "pais": "gb-eng" },
+          { "nombre": "Larry Lloyd", "pais": "gb-eng" },
+          { "nombre": "Kenny Burns", "pais": "gb-sct" },
+          { "nombre": "John McGovern (C)", "pais": "gb-sct" },
+          { "nombre": "Trevor Francis", "pais": "gb-eng" },
+          { "nombre": "Ian Bowyer", "pais": "gb-eng" },
+          { "nombre": "John Robertson", "pais": "gb-sct" },
+          { "nombre": "Garry Birtles", "pais": "gb-eng" },
+          { "nombre": "Tony Woodcock", "pais": "gb-eng" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Bob Houghton", "pais": "gb-eng" },
+        "formation": "",
+        "startingEleven": [
+          { "nombre": "Jan Möller (P)", "pais": "se" },
+          { "nombre": "Roland Andersson", "pais": "se" },
+          { "nombre": "Ingemar Erlandsson", "pais": "se" },
+          { "nombre": "Kent Jönsson", "pais": "se" },
+          { "nombre": "Magnus Andersson", "pais": "se" },
+          { "nombre": "Staffan Tapper (C)", "pais": "se" },
+          { "nombre": "Anders Ljungberg", "pais": "se" },
+          { "nombre": "Robert Prytz", "pais": "se" },
+          { "nombre": "Jan Olov Kinnvall", "pais": "se" },
+          { "nombre": "Tommy Hansson", "pais": "se" },
+          { "nombre": "Tore Cervin", "pais": "se" }
+        ]
+      }
+    },
+    "stadium": "Olympiastadion",
+    "city": "Múnich",
+    "country": "Alemania Federal",
+    "attendance": "57,000",
+    "referee": "Erich Linemayr (Austria)",
+    "goals": "Nottingham: Trevor Francis (45+1')"
+  },
+  {
+    "season": "1979-80",
+    "era": "copa-europa",
+    "date": "28/05/1980",
+    "time": "20:30 CEST",
+    "winner": "Nottingham Forest",
+    "runnerUp": "Hamburger SV",
+    "score": "1 - 0",
+    "scoreWinner": "1",
+    "scoreRunnerUp": "0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Brian Clough", "pais": "gb-eng" },
+        "formation": "4-3-3",
+        "startingEleven": [
+          { "nombre": "Peter Shilton (P)", "pais": "gb-eng" },
+          { "nombre": "Viv Anderson", "pais": "gb-eng" },
+          { "nombre": "Larry Lloyd", "pais": "gb-eng" },
+          { "nombre": "Kenny Burns", "pais": "gb-sct" },
+          { "nombre": "Frank Gray", "pais": "gb-sct" },
+          { "nombre": "Ian Bowyer", "pais": "gb-eng" },
+          { "nombre": "John McGovern (C)", "pais": "gb-sct" },
+          { "nombre": "Gary Mills", "pais": "gb-eng" },
+          { "nombre": "Martin O'Neill", "pais": "gb-nir" },
+          { "nombre": "Garry Birtles", "pais": "gb-eng" },
+          { "nombre": "John Robertson", "pais": "gb-sct" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Branko Zebec", "pais": "hr" },
+        "formation": "5-3-2",
+        "startingEleven": [
+          { "nombre": "Rudolf Kargus (P)", "pais": "de" },
+          { "nombre": "Manfred Kaltz", "pais": "de" },
+          { "nombre": "Ivan Buljan", "pais": "hr" },
+          { "nombre": "Peter Nogly (C)", "pais": "de" },
+          { "nombre": "Ditmar Jakobs", "pais": "de" },
+          { "nombre": "Caspar Memering", "pais": "de" },
+          { "nombre": "Holger Hieronymus", "pais": "de" },
+          { "nombre": "Felix Magath", "pais": "de" },
+          { "nombre": "Kevin Keegan", "pais": "gb-eng" },
+          { "nombre": "Willi Reimann", "pais": "de" },
+          { "nombre": "Jürgen Milewski", "pais": "de" }
+        ]
+      }
+    },
+    "stadium": "Santiago Bernabéu",
+    "city": "Madrid",
+    "country": "España",
+    "attendance": "51,000",
+    "referee": "António Garrido (Portugal)",
+    "goals": "Nottingham: Robertson (20')"
+  }
+]

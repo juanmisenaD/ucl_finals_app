@@ -1,0 +1,1060 @@
+[
+  {
+    "season": "1980-81",
+    "era": "copa-europa",
+    "date": "27/05/1981",
+    "time": "20:15 CEST",
+    "winner": "Liverpool",
+    "runnerUp": "Real Madrid",
+    "score": "1 - 0",
+    "scoreWinner": "1",
+    "scoreRunnerUp": "0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Bob Paisley", "pais": "gb-eng" },
+        "formation": "",
+        "startingEleven": [
+          { "nombre": "Ray Clemence (P)", "pais": "gb-eng" },
+          { "nombre": "Phil Neal", "pais": "gb-eng" },
+          { "nombre": "Alan Kennedy", "pais": "gb-eng" },
+          { "nombre": "Phil Thompson (C)", "pais": "gb-eng" },
+          { "nombre": "Alan Hansen", "pais": "gb-sct" },
+          { "nombre": "Ray Kennedy", "pais": "gb-eng" },
+          { "nombre": "Sammy Lee", "pais": "gb-eng" },
+          { "nombre": "Terry McDermott", "pais": "gb-eng" },
+          { "nombre": "Graeme Souness", "pais": "gb-sct" },
+          { "nombre": "Kenny Dalglish", "pais": "gb-sct" },
+          { "nombre": "David Johnson", "pais": "gb-eng" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Vujadin Boškov", "pais": "rs" },
+        "formation": "4-3-3",
+        "startingEleven": [
+          { "nombre": "Agustín Rodríguez (P)", "pais": "es" },
+          { "nombre": "Rafael García Cortés", "pais": "es" },
+          { "nombre": "Andrés Sabido Martín", "pais": "es" },
+          { "nombre": "Antonio García Navajas", "pais": "es" },
+          { "nombre": "José Antonio Camacho", "pais": "es" },
+          { "nombre": "Vicente Del Bosque", "pais": "es" },
+          { "nombre": "Ángel de los Santos", "pais": "es" },
+          { "nombre": "Uli Stielike", "pais": "de" },
+          { "nombre": "Juanito", "pais": "es" },
+          { "nombre": "Carlos Santillana (C)", "pais": "es" },
+          { "nombre": "Laurie Cunningham", "pais": "gb-eng" }
+        ]
+      }
+    },
+    "stadium": "Parc des Princes",
+    "city": "París",
+    "country": "Francia",
+    "attendance": "48,360",
+    "referee": "Károly Palotai (Hungría)",
+    "goals": "Liverpool: A. Kennedy (82')"
+  },
+  {
+    "season": "1981-82",
+    "era": "copa-europa",
+    "date": "26/05/1982",
+    "time": "20:15 CEST",
+    "winner": "Aston Villa",
+    "runnerUp": "Bayern Múnich",
+    "score": "1 - 0",
+    "scoreWinner": "1",
+    "scoreRunnerUp": "0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Tony Barton", "pais": "gb-eng" },
+        "formation": "",
+        "startingEleven": [
+          { "nombre": "Jimmy Rimmer", "pais": "gb-eng" },
+          { "nombre": "Kenny Swain", "pais": "gb-eng" },
+          { "nombre": "Allan Evans", "pais": "gb-sct" },
+          { "nombre": "Ken McNaught", "pais": "gb-sct" },
+          { "nombre": "Gary Williams", "pais": "gb-eng" },
+          { "nombre": "Des Bremner", "pais": "gb-sct" },
+          { "nombre": "Gordon Cowans", "pais": "gb-eng" },
+          { "nombre": "Dennis Mortimer (C)", "pais": "gb-eng" },
+          { "nombre": "Gary Shaw", "pais": "gb-eng" },
+          { "nombre": "Tony Morley", "pais": "gb-eng" },
+          { "nombre": "Peter Withe", "pais": "gb-eng" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Manfred Müller", "pais": "de" },
+        "formation": "",
+        "startingEleven": [
+          { "nombre": "Wolfgang Dremmler (P)", "pais": "de" },
+          { "nombre": "Hans Weiner", "pais": "de" },
+          { "nombre": "Klaus Augenthaler", "pais": "de" },
+          { "nombre": "Udo Horsmann", "pais": "de" },
+          { "nombre": "Reinhold Mathy", "pais": "de" },
+          { "nombre": "Paul Breitner", "pais": "de" },
+          { "nombre": "Wolfgang Kraus", "pais": "de" },
+          { "nombre": "Bernd Dürnberger", "pais": "de" },
+          { "nombre": "Karl-Heinz Rummenigge (C)", "pais": "de" },
+          { "nombre": "Dieter Hoeneß", "pais": "de" },
+          { "nombre": "Pál Csernai", "pais": "hu" }
+        ]
+      }
+    },
+    "stadium": "De Kuip",
+    "city": "Róterdam",
+    "country": "Países Bajos",
+    "attendance": "46,000",
+    "referee": "Georges Konrath (Francia)",
+    "goals": "Aston Villa: Withe (67')"
+  },
+  {
+    "season": "1982-83",
+    "era": "copa-europa",
+    "date": "25/05/1983",
+    "time": "21:15 EEST",
+    "winner": "Hamburger SV",
+    "runnerUp": "Juventus",
+    "score": "1 - 0",
+    "scoreWinner": "1",
+    "scoreRunnerUp": "0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Ernst Happel", "pais": "at" },
+        "formation": "",
+        "startingEleven": [
+          { "nombre": "Uli Stein (P)", "pais": "de" },
+          { "nombre": "Manfred Kaltz", "pais": "de" },
+          { "nombre": "Ditmar Jakobs", "pais": "de" },
+          { "nombre": "Holger Hieronymus", "pais": "de" },
+          { "nombre": "Bernd Wehmeyer", "pais": "de" },
+          { "nombre": "Jürgen Groh", "pais": "de" },
+          { "nombre": "Wolfgang Rolff", "pais": "de" },
+          { "nombre": "Felix Magath", "pais": "de" },
+          { "nombre": "Jürgen Milewski", "pais": "de" },
+          { "nombre": "Horst Hrubesch (C)", "pais": "de" },
+          { "nombre": "Lars Bastrup", "pais": "dk" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Giovanni Trapattoni", "pais": "it" },
+        "formation": "4-3-3",
+        "startingEleven": [
+          { "nombre": "Dino Zoff", "pais": "it" },
+          { "nombre": "Claudio Gentile", "pais": "it" },
+          { "nombre": "Sergio Brio", "pais": "it" },
+          { "nombre": "Gaetano Scirea (C)", "pais": "it" },
+          { "nombre": "Antonio Cabrini", "pais": "it" },
+          { "nombre": "Massimo Bonini", "pais": "sm" },
+          { "nombre": "Michel Platini", "pais": "fr" },
+          { "nombre": "Marco Tardelli", "pais": "it" },
+          { "nombre": "Zbigniew Boniek", "pais": "pl" },
+          { "nombre": "Roberto Bettega", "pais": "it" },
+          { "nombre": "Paolo Rossi", "pais": "it" }
+        ]
+      }
+    },
+    "stadium": "Olimpico de Atenas",
+    "city": "Atenas",
+    "country": "Grecia",
+    "attendance": "73,500",
+    "referee": "Nicolae Rainea (Rumania)",
+    "goals": "Hamburg: Magath (9')"
+  },
+  {
+    "season": "1983-84",
+    "era": "copa-europa",
+    "date": "30/05/1984",
+    "time": "20:15 CEST",
+    "winner": "Liverpool",
+    "runnerUp": "AS Roma",
+    "score": "1 - 1 (4 - 2 pen.)",
+    "scoreWinner": "1 (4)",
+    "scoreRunnerUp": "(2) 1",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Joe Fagan", "pais": "gb-eng" },
+        "formation": "",
+        "startingEleven": [
+          { "nombre": "Bruce Grobbelaar (P)", "pais": "zw" },
+          { "nombre": "Phil Neal", "pais": "gb-eng" },
+          { "nombre": "Mark Lawrenson", "pais": "ie" },
+          { "nombre": "Alan Hansen", "pais": "gb-sct" },
+          { "nombre": "Alan Kennedy", "pais": "gb-eng" },
+          { "nombre": "Australia Craig Johnston", "pais": "" },
+          { "nombre": "Graeme Souness (C)", "pais": "gb-sct" },
+          { "nombre": "Sammy Lee", "pais": "gb-eng" },
+          { "nombre": "Ronnie Whelan", "pais": "ie" },
+          { "nombre": "Kenny Dalglish", "pais": "gb-sct" },
+          { "nombre": "Ian Rush", "pais": "gb-wls" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Nils Liedholm", "pais": "se" },
+        "formation": "",
+        "startingEleven": [
+          { "nombre": "Franco Tancredi", "pais": "it" },
+          { "nombre": "Michele Nappi", "pais": "it" },
+          { "nombre": "Dario Bonetti", "pais": "it" },
+          { "nombre": "Ubaldo Righetti", "pais": "it" },
+          { "nombre": "Sebastiano Nela", "pais": "it" },
+          { "nombre": "Paulo Roberto Falcão", "pais": "br" },
+          { "nombre": "Agostino Di Bartolomei (C)", "pais": "it" },
+          { "nombre": "Toninho Cerezo", "pais": "br" },
+          { "nombre": "Bruno Conti", "pais": "it" },
+          { "nombre": "Roberto Pruzzo", "pais": "it" },
+          { "nombre": "Francesco Graziani", "pais": "it" }
+        ]
+      }
+    },
+    "stadium": "Stadio Olimpico",
+    "city": "Roma",
+    "country": "Italia",
+    "attendance": "69,693",
+    "referee": "Erik Fredriksson (Suecia)",
+    "goals": "Liverpool: Neal (13') | Roma: Pruzzo (42')"
+  },
+  {
+    "season": "1984-85",
+    "era": "copa-europa",
+    "date": "29/05/1985",
+    "time": "20:15 CEST",
+    "winner": "Juventus",
+    "runnerUp": "Liverpool",
+    "score": "1 - 0",
+    "scoreWinner": "1",
+    "scoreRunnerUp": "0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Giovanni Trapattoni", "pais": "it" },
+        "formation": "4-3-3",
+        "startingEleven": [
+          { "nombre": "Stefano Tacconi (P)", "pais": "it" },
+          { "nombre": "Luciano Favero", "pais": "it" },
+          { "nombre": "Antonio Cabrini", "pais": "it" },
+          { "nombre": "Sergio Brio", "pais": "it" },
+          { "nombre": "Gaetano Scirea (C)", "pais": "it" },
+          { "nombre": "Massimo Bonini", "pais": "sm" },
+          { "nombre": "Michel Platini", "pais": "fr" },
+          { "nombre": "Marco Tardelli", "pais": "it" },
+          { "nombre": "Zbigniew Boniek", "pais": "pl" },
+          { "nombre": "Massimo Briaschi", "pais": "it" },
+          { "nombre": "Paolo Rossi", "pais": "it" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Joe Fagan", "pais": "gb-eng" },
+        "formation": "",
+        "startingEleven": [
+          { "nombre": "Bruce Grobbelaar (P)", "pais": "zw" },
+          { "nombre": "Phil Neal (C)", "pais": "gb-eng" },
+          { "nombre": "Jim Beglin", "pais": "ie" },
+          { "nombre": "Mark Lawrenson", "pais": "ie" },
+          { "nombre": "Alan Hansen", "pais": "gb-sct" },
+          { "nombre": "Steve Nicol", "pais": "gb-sct" },
+          { "nombre": "Ronnie Whelan", "pais": "ie" },
+          { "nombre": "Paul Walsh", "pais": "gb-eng" },
+          { "nombre": "John Wark", "pais": "gb-sct" },
+          { "nombre": "Kenny Dalglish", "pais": "gb-sct" },
+          { "nombre": "Ian Rush", "pais": "gb-wls" }
+        ]
+      }
+    },
+    "stadium": "Heysel Stadium",
+    "city": "Bruselas",
+    "country": "Bélgica",
+    "attendance": "58,000",
+    "referee": "André Daina (Suiza)",
+    "goals": "Juventus: Platini (58' pen.)",
+    "nota": "Tragedia de Heysel: Los incidentes violentos antes del inicio del encuentro causaron la muerte de 39 aficionados, lo que derivó en una sanción de varios años sin competir en Europa para los clubes ingleses."
+  },
+  {
+    "season": "1985-86",
+    "era": "copa-europa",
+    "date": "07/05/1986",
+    "time": "20:15 CEST",
+    "winner": "Steaua de Bucarest",
+    "runnerUp": "FC Barcelona",
+    "score": "0 - 0 (2 - 0 pen.)",
+    "scoreWinner": "0 (2)",
+    "scoreRunnerUp": "(0) 0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Emerich Jenei", "pais": "ro" },
+        "formation": "",
+        "startingEleven": [
+          { "nombre": "Helmuth Duckadam (P)", "pais": "ro" },
+          { "nombre": "Ştefan Iovan (C)", "pais": "ro" },
+          { "nombre": "Miodrag Belodedici", "pais": "ro" },
+          { "nombre": "Adrian Bumbescu", "pais": "ro" },
+          { "nombre": "Ilie Bărbulescu", "pais": "ro" },
+          { "nombre": "László Bölöni", "pais": "ro" },
+          { "nombre": "Mikal Majaru", "pais": "ro" },
+          { "nombre": "Lucian Bălan", "pais": "ro" },
+          { "nombre": "Gavril Balint", "pais": "ro" },
+          { "nombre": "Marius Lăcătuş", "pais": "ro" },
+          { "nombre": "Victor Piţurcă", "pais": "ro" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Terry Venables", "pais": "gb-eng" },
+        "formation": "",
+        "startingEleven": [
+          { "nombre": "Javier Urruticoechea (P)", "pais": "es" },
+          { "nombre": "Gerardo Miranda", "pais": "es" },
+          { "nombre": "Migueli", "pais": "es" },
+          { "nombre": "Julio Alberto Moreno", "pais": "es" },
+          { "nombre": "José Ramón Alexanko", "pais": "es" },
+          { "nombre": "Víctor Muñoz", "pais": "es" },
+          { "nombre": "Bernd Schuster (C)", "pais": "de" },
+          { "nombre": "Ángel Pedraza", "pais": "es" },
+          { "nombre": "Marcos Alonso", "pais": "es" },
+          { "nombre": "Francisco José Carrasco", "pais": "es" },
+          { "nombre": "Steve Archibald", "pais": "gb-sct" }
+        ]
+      }
+    },
+    "stadium": "Ramón Sánchez-Pizjuán",
+    "city": "Sevilla",
+    "country": "España",
+    "attendance": "70,000",
+    "referee": "Michel Vautrot (Francia)",
+    "goals": "Sin goles en tiempo regular. Tanda de penaltis memorable con Duckadam deteniendo 4 penaltis."
+  },
+  {
+    "season": "1986-87",
+    "era": "copa-europa",
+    "date": "27/05/1987",
+    "time": "20:15 CEST",
+    "winner": "Oporto",
+    "runnerUp": "Bayern Múnich",
+    "score": "2 - 1",
+    "scoreWinner": "2",
+    "scoreRunnerUp": "1",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Artur Jorge", "pais": "pt" },
+        "formation": "4-4-2",
+        "startingEleven": [
+          { "nombre": "Józef Młynarczyk (P)", "pais": "pl" },
+          { "nombre": "João Pinto (C)", "pais": "pt" },
+          { "nombre": "Celso", "pais": "br" },
+          { "nombre": "Eduardo Luís", "pais": "pt" },
+          { "nombre": "Augusto Inácio", "pais": "pt" },
+          { "nombre": "Jaime Magalhães", "pais": "pt" },
+          { "nombre": "António André", "pais": "pt" },
+          { "nombre": "António Sousa", "pais": "pt" },
+          { "nombre": "Joaquim Carvalho (Quim)", "pais": "pt" },
+          { "nombre": "Rabah Madjer", "pais": "dz" },
+          { "nombre": "Paulo Futre", "pais": "pt" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Udo Lattek", "pais": "de" },
+        "formation": "4-4-2",
+        "startingEleven": [
+          { "nombre": "Jean-Marie Pfaff (P)", "pais": "be" },
+          { "nombre": "Norbert Nachtweih", "pais": "de" },
+          { "nombre": "Norbert Eder", "pais": "de" },
+          { "nombre": "Hans Pflügler", "pais": "de" },
+          { "nombre": "Helmut Winklhofer", "pais": "de" },
+          { "nombre": "Hans-Dieter Flick", "pais": "de" },
+          { "nombre": "Michael Rummenigge", "pais": "de" },
+          { "nombre": "Lothar Matthäus (C)", "pais": "de" },
+          { "nombre": "Andreas Brehme", "pais": "de" },
+          { "nombre": "Dieter Hoeness", "pais": "de" },
+          { "nombre": "Ludwig Kögl", "pais": "de" }
+        ]
+      }
+    },
+    "stadium": "Praterstadion",
+    "city": "Viena",
+    "country": "Austria",
+    "attendance": "57,500",
+    "referee": "Alexis Ponnet (Bélgica)",
+    "goals": "Porto: Madjer (77'), Juary (80') | Bayern: Kögl (25')"
+  },
+  {
+    "season": "1987-88",
+    "era": "copa-europa",
+    "date": "25/05/1988",
+    "time": "20:15 CEST",
+    "winner": "PSV Eindhoven",
+    "runnerUp": "Benfica",
+    "score": "0 - 0 (6 - 5 pen.)",
+    "scoreWinner": "0 (6)",
+    "scoreRunnerUp": "(5) 0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Guus Hiddink", "pais": "nl" },
+        "formation": "4-4-2",
+        "startingEleven": [
+          { "nombre": "Hans van Breukelen (P)", "pais": "nl" },
+          { "nombre": "Eric Gerets (C)", "pais": "be" },
+          { "nombre": "Ivan Nielsen", "pais": "dk" },
+          { "nombre": "Ronald Koeman", "pais": "nl" },
+          { "nombre": "Jan Heintze", "pais": "dk" },
+          { "nombre": "Berry van Aerle", "pais": "nl" },
+          { "nombre": "Gerald Vanenburg", "pais": "nl" },
+          { "nombre": "Edward Linskens", "pais": "nl" },
+          { "nombre": "Søren Lerby", "pais": "dk" },
+          { "nombre": "Wim Kieft", "pais": "nl" },
+          { "nombre": "Hans Gillhaus", "pais": "nl" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Toni Oliveira", "pais": "pt" },
+        "formation": "4-4-2",
+        "startingEleven": [
+          { "nombre": "Silvino Louro (P)", "pais": "pt" },
+          { "nombre": "António Veloso", "pais": "pt" },
+          { "nombre": "Carlos Mozer", "pais": "br" },
+          { "nombre": "Dito", "pais": "pt" },
+          { "nombre": "Álvaro Magalhães", "pais": "pt" },
+          { "nombre": "Elzo Coelho", "pais": "br" },
+          { "nombre": "António Pacheco", "pais": "pt" },
+          { "nombre": "Shéu (C)", "pais": "pt" },
+          { "nombre": "Chiquinho Carlos", "pais": "br" },
+          { "nombre": "Mats Magnusson", "pais": "se" },
+          { "nombre": "Rui Águas", "pais": "pt" }
+        ]
+      }
+    },
+    "stadium": "Neckarstadion",
+    "city": "Stuttgart",
+    "country": "Alemania Federal",
+    "attendance": "68,000",
+    "referee": "Luigi Agnolin (Italia)",
+    "goals": "Sin goles en tiempo reglamentario ni prórroga."
+  },
+  {
+    "season": "1988-89",
+    "era": "copa-europa",
+    "date": "24/05/1989",
+    "time": "20:15 CEST",
+    "winner": "AC Milan",
+    "runnerUp": "Steaua de Bucarest",
+    "score": "4 - 0",
+    "scoreWinner": "4",
+    "scoreRunnerUp": "0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Arrigo Sacchi", "pais": "it" },
+        "formation": "4-4-2",
+        "startingEleven": [
+          { "nombre": "Giovanni Galli (P)", "pais": "it" },
+          { "nombre": "Mauro Tassotti", "pais": "it" },
+          { "nombre": "Alessandro Costacurta", "pais": "it" },
+          { "nombre": "Franco Baresi (C)", "pais": "it" },
+          { "nombre": "Paolo Maldini", "pais": "it" },
+          { "nombre": "Angelo Colombo", "pais": "it" },
+          { "nombre": "Frank Rijkaard", "pais": "nl" },
+          { "nombre": "Carlo Ancelotti", "pais": "it" },
+          { "nombre": "Roberto Donadoni", "pais": "it" },
+          { "nombre": "Ruud Gullit", "pais": "nl" },
+          { "nombre": "Marco van Basten", "pais": "nl" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Anghel Iordănescu", "pais": "ro" },
+        "formation": "4-4-2",
+        "startingEleven": [
+          { "nombre": "Silviu Lung (P)", "pais": "ro" },
+          { "nombre": "Ştefan Iovan", "pais": "ro" },
+          { "nombre": "Dan Petrescu", "pais": "ro" },
+          { "nombre": "Adrian Bumbescu", "pais": "ro" },
+          { "nombre": "Nicolae Ungureanu", "pais": "ro" },
+          { "nombre": "Gheorghe Hagi", "pais": "ro" },
+          { "nombre": "Tudorel Stoica (C)", "pais": "ro" },
+          { "nombre": "Daniel Minea", "pais": "ro" },
+          { "nombre": "Iosif Rotariu", "pais": "ro" },
+          { "nombre": "Marius Lăcătuş", "pais": "ro" },
+          { "nombre": "Victor Piţurcă", "pais": "ro" }
+        ]
+      }
+    },
+    "stadium": "Camp Nou",
+    "city": "Barcelona",
+    "country": "España",
+    "attendance": "97,000",
+    "referee": "Karl-Heinz Tritschler (Alemania)",
+    "goals": "AC Milan: Gullit (18', 39'), Van Basten (27', 47')"
+  },
+  {
+    "season": "1989-90",
+    "era": "copa-europa",
+    "date": "23/05/1990",
+    "time": "20:15 CEST",
+    "winner": "AC Milan",
+    "runnerUp": "Benfica",
+    "score": "1 - 0",
+    "scoreWinner": "1",
+    "scoreRunnerUp": "0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Arrigo Sacchi", "pais": "it" },
+        "formation": "4-4-2",
+        "startingEleven": [
+          { "nombre": "Giovanni Galli (P)", "pais": "it" },
+          { "nombre": "Mauro Tassotti", "pais": "it" },
+          { "nombre": "Alessandro Costacurta", "pais": "it" },
+          { "nombre": "Franco Baresi (C)", "pais": "it" },
+          { "nombre": "Paolo Maldini", "pais": "it" },
+          { "nombre": "Angelo Colombo", "pais": "it" },
+          { "nombre": "Frank Rijkaard", "pais": "nl" },
+          { "nombre": "Carlo Ancelotti", "pais": "it" },
+          { "nombre": "Alberigo Evani", "pais": "it" },
+          { "nombre": "Ruud Gullit", "pais": "nl" },
+          { "nombre": "Marco van Basten", "pais": "nl" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Sven-Göran Eriksson", "pais": "se" },
+        "formation": "4-4-2",
+        "startingEleven": [
+          { "nombre": "Silvino Louro (P)", "pais": "pt" },
+          { "nombre": "José Carlos", "pais": "pt" },
+          { "nombre": "Aldair", "pais": "br" },
+          { "nombre": "Ricardo Gomes", "pais": "br" },
+          { "nombre": "Samuel Quina", "pais": "pt" },
+          { "nombre": "Vítor Paneira (C)", "pais": "pt" },
+          { "nombre": "Valdo Filho", "pais": "br" },
+          { "nombre": "Jonas Thern", "pais": "se" },
+          { "nombre": "Mats Magnusson", "pais": "se" },
+          { "nombre": "Hernâni Neves", "pais": "pt" },
+          { "nombre": "António Pacheco", "pais": "pt" }
+        ]
+      }
+    },
+    "stadium": "Praterstadion",
+    "city": "Viena",
+    "country": "Austria",
+    "attendance": "57,558",
+    "referee": "Helmut Kohl (Austria)",
+    "goals": "AC Milan: Rijkaard (68')"
+  },
+  {
+    "season": "1990-91",
+    "era": "copa-europa",
+    "date": "29/05/1991",
+    "time": "20:15 CEST",
+    "winner": "Estrella Roja",
+    "runnerUp": "Olympique de Marsella",
+    "score": "0 - 0 (5 - 3 pen.)",
+    "scoreWinner": "0 (5)",
+    "scoreRunnerUp": "(3) 0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Vladímir Popović", "pais": "rs" },
+        "formation": "5-4-1",
+        "startingEleven": [
+          { "nombre": "Stevan Stojanović (P)(C)", "pais": "rs" },
+          { "nombre": "Miodrag Belodedici", "pais": "ro" },
+          { "nombre": "Ilija Najdoski", "pais": "mk" },
+          { "nombre": "Refik Šabanadžović", "pais": "ba" },
+          { "nombre": "Vladimir Jugović", "pais": "rs" },
+          { "nombre": "Slobodan Marović", "pais": "me" },
+          { "nombre": "Siniša Mihajlović", "pais": "rs" },
+          { "nombre": "Dragiša Binić", "pais": "rs" },
+          { "nombre": "Dejan Savićević", "pais": "me" },
+          { "nombre": "Robert Prosinečki", "pais": "hr" },
+          { "nombre": "Darko Pančev", "pais": "mk" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Raymond Goethals", "pais": "be" },
+        "formation": "4-4-2",
+        "startingEleven": [
+          { "nombre": "Pascal Olmeta", "pais": "fr" },
+          { "nombre": "Manuel Amoros", "pais": "fr" },
+          { "nombre": "Basile Boli", "pais": "fr" },
+          { "nombre": "Carlos Mozer", "pais": "br" },
+          { "nombre": "Éric Di Meco", "pais": "fr" },
+          { "nombre": "Laurent Fournier", "pais": "fr" },
+          { "nombre": "Bruno Germain", "pais": "fr" },
+          { "nombre": "Bernard Casoni", "pais": "fr" },
+          { "nombre": "Chris Waddle", "pais": "gb-eng" },
+          { "nombre": "Abédi Pelé", "pais": "gh" },
+          { "nombre": "Jean Pierre Papin (C)", "pais": "fr" }
+        ]
+      }
+    },
+    "stadium": "Stadio San Nicola",
+    "city": "Bari",
+    "country": "Italia",
+    "attendance": "56,000",
+    "referee": "Tullio Lanese (Italia)",
+    "goals": "Sin goles en 120 minutos."
+  },
+  {
+    "season": "1991-92",
+    "era": "copa-europa",
+    "date": "20/05/1992",
+    "time": "19:15 BST",
+    "winner": "FC Barcelona",
+    "runnerUp": "Sampdoria",
+    "score": "1 - 0 (t.s.)",
+    "scoreWinner": "1 (t.",
+    "scoreRunnerUp": "s.) 0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Johan Cruyff", "pais": "nl" },
+        "formation": "3-5-2",
+        "startingEleven": [
+          { "nombre": "Andoni Zubizarreta (P)(C)", "pais": "es" },
+          { "nombre": "Nando Muñoz", "pais": "es" },
+          { "nombre": "Ronald Koeman", "pais": "nl" },
+          { "nombre": "Albert Ferrer", "pais": "es" },
+          { "nombre": "Eusebio Sacristán", "pais": "es" },
+          { "nombre": "Josep Guardiola", "pais": "es" },
+          { "nombre": "Juan Carlos", "pais": "es" },
+          { "nombre": "José Mari Bakero", "pais": "es" },
+          { "nombre": "Michael Laudrup", "pais": "dk" },
+          { "nombre": "Julio Salinas", "pais": "es" },
+          { "nombre": "Hristo Stoichkov", "pais": "bg" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Vujadin Boškov", "pais": "rs" },
+        "formation": "4-4-2",
+        "startingEleven": [
+          { "nombre": "Gianluca Pagliuca (P)", "pais": "it" },
+          { "nombre": "Moreno Mannini", "pais": "it" },
+          { "nombre": "Pietro Vierchowod", "pais": "it" },
+          { "nombre": "Marco Lanna", "pais": "it" },
+          { "nombre": "Srečko Katanec", "pais": "si" },
+          { "nombre": "Attilio Lombardo", "pais": "it" },
+          { "nombre": "Fausto Pari", "pais": "it" },
+          { "nombre": "Toninho Cerezo", "pais": "br" },
+          { "nombre": "Ivano Bonetti", "pais": "it" },
+          { "nombre": "Gianluca Vialli", "pais": "it" },
+          { "nombre": "Roberto Mancini (C)", "pais": "it" }
+        ]
+      }
+    },
+    "stadium": "Wembley Stadium",
+    "city": "Londres",
+    "country": "Inglaterra",
+    "attendance": "70,827",
+    "referee": "Aron Schmidhuber (Alemania)",
+    "goals": "Barcelona: Koeman (112')"
+  },
+  {
+    "season": "1992-93",
+    "era": "champions",
+    "date": "26/05/1993",
+    "time": "20:15 CEST",
+    "winner": "Olympique de Marsella",
+    "runnerUp": "AC Milan",
+    "score": "1 - 0",
+    "scoreWinner": "1",
+    "scoreRunnerUp": "0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Raymond Goethals", "pais": "be" },
+        "formation": "4-3-1-2",
+        "startingEleven": [
+          { "nombre": "Fabien Barthez (P)", "pais": "fr" },
+          { "nombre": "Franck Sauzée", "pais": "fr" },
+          { "nombre": "Basile Boli", "pais": "fr" },
+          { "nombre": "Éric Di Meco", "pais": "fr" },
+          { "nombre": "Jocelyn Angloma", "pais": "fr" },
+          { "nombre": "Marcel Desailly", "pais": "fr" },
+          { "nombre": "Jean-Jacques Eydelie", "pais": "fr" },
+          { "nombre": "Abédi Pelé", "pais": "gh" },
+          { "nombre": "Didier Deschamps (C)", "pais": "fr" },
+          { "nombre": "Rudi Völler", "pais": "de" },
+          { "nombre": "Alen Bokšić", "pais": "hr" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Fabio Capello", "pais": "it" },
+        "formation": "4-4-2",
+        "startingEleven": [
+          { "nombre": "Sebastiano Rossi (P)", "pais": "it" },
+          { "nombre": "Paolo Maldini", "pais": "it" },
+          { "nombre": "Franco Baresi (C)", "pais": "it" },
+          { "nombre": "Alessandro Costacurta", "pais": "it" },
+          { "nombre": "Mauro Tassotti", "pais": "it" },
+          { "nombre": "Demetrio Albertini", "pais": "it" },
+          { "nombre": "Gianluigi Lentini", "pais": "it" },
+          { "nombre": "Frank Rijkaard", "pais": "nl" },
+          { "nombre": "Roberto Donadoni", "pais": "it" },
+          { "nombre": "Marco van Basten", "pais": "nl" },
+          { "nombre": "Daniele Massaro", "pais": "it" }
+        ]
+      }
+    },
+    "stadium": "Olympiastadion",
+    "city": "Múnich",
+    "country": "Alemania",
+    "attendance": "64,400",
+    "referee": "Kurt Röthlisberger (Suiza)",
+    "goals": "Marsella: Boli (43')"
+  },
+  {
+    "season": "1993-94",
+    "era": "champions",
+    "date": "18/05/1994",
+    "time": "21:15 EEST",
+    "winner": "AC Milan",
+    "runnerUp": "FC Barcelona",
+    "score": "4 - 0",
+    "scoreWinner": "4",
+    "scoreRunnerUp": "0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Fabio Capello", "pais": "it" },
+        "formation": "4-4-2",
+        "startingEleven": [
+          { "nombre": "Sebastiano Rossi (P)", "pais": "it" },
+          { "nombre": "Mauro Tassotti (C)", "pais": "it" },
+          { "nombre": "Filippo Galli", "pais": "it" },
+          { "nombre": "Paolo Maldini", "pais": "it" },
+          { "nombre": "Christian Panucci", "pais": "it" },
+          { "nombre": "Zvonimir Boban", "pais": "hr" },
+          { "nombre": "Demetrio Albertini", "pais": "it" },
+          { "nombre": "Marcel Desailly", "pais": "fr" },
+          { "nombre": "Roberto Donadoni", "pais": "it" },
+          { "nombre": "Dejan Savićević", "pais": "me" },
+          { "nombre": "Daniele Massaro", "pais": "it" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Johan Cruyff", "pais": "nl" },
+        "formation": "4-3-3",
+        "startingEleven": [
+          { "nombre": "Andoni Zubizarreta (P)", "pais": "es" },
+          { "nombre": "Albert Ferrer", "pais": "es" },
+          { "nombre": "Ronald Koeman", "pais": "nl" },
+          { "nombre": "Miguel Ángel Nadal", "pais": "es" },
+          { "nombre": "Sergi Barjuán", "pais": "es" },
+          { "nombre": "Josep Guardiola", "pais": "es" },
+          { "nombre": "José Mari Bakero (C)", "pais": "es" },
+          { "nombre": "Guillermo Amor", "pais": "es" },
+          { "nombre": "Hristo Stoichkov", "pais": "bg" },
+          { "nombre": "Romário", "pais": "br" },
+          { "nombre": "Txiki Begiristain", "pais": "es" }
+        ]
+      }
+    },
+    "stadium": "Olimpico de Atenas",
+    "city": "Atenas",
+    "country": "Grecia",
+    "attendance": "70,000",
+    "referee": "Philip Don (Inglaterra)",
+    "goals": "AC Milan: Massaro (22', 45+2'), Savićević (47'), Desailly (58')"
+  },
+  {
+    "season": "1994-95",
+    "era": "champions",
+    "date": "24/05/1995",
+    "time": "20:30 CEST",
+    "winner": "Ajax",
+    "runnerUp": "AC Milan",
+    "score": "1 - 0",
+    "scoreWinner": "1",
+    "scoreRunnerUp": "0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Louis van Gaal", "pais": "nl" },
+        "formation": "4-3-3",
+        "startingEleven": [
+          { "nombre": "Edwin van der Sar (P)", "pais": "nl" },
+          { "nombre": "Michael Reiziger", "pais": "nl" },
+          { "nombre": "Danny Blind (C)", "pais": "nl" },
+          { "nombre": "Frank Rijkaard", "pais": "nl" },
+          { "nombre": "Frank de Boer", "pais": "nl" },
+          { "nombre": "Clarence Seedorf", "pais": "nl" },
+          { "nombre": "Edgar Davids", "pais": "nl" },
+          { "nombre": "Ronald de Boer", "pais": "nl" },
+          { "nombre": "Jari Litmanen", "pais": "fi" },
+          { "nombre": "Finidi George", "pais": "ng" },
+          { "nombre": "Marc Overmars", "pais": "nl" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Fabio Capello", "pais": "it" },
+        "formation": "4-4-2",
+        "startingEleven": [
+          { "nombre": "Sebastiano Rossi (P)", "pais": "it" },
+          { "nombre": "Christian Panucci", "pais": "it" },
+          { "nombre": "Franco Baresi (C)", "pais": "it" },
+          { "nombre": "Alessandro Costacurta", "pais": "it" },
+          { "nombre": "Paolo Maldini", "pais": "it" },
+          { "nombre": "Roberto Donadoni", "pais": "it" },
+          { "nombre": "Marcel Desailly", "pais": "fr" },
+          { "nombre": "Demetrio Albertini", "pais": "it" },
+          { "nombre": "Zvonimir Boban", "pais": "hr" },
+          { "nombre": "Daniele Massaro", "pais": "it" },
+          { "nombre": "Marco Simone", "pais": "it" }
+        ]
+      }
+    },
+    "stadium": "Ernst-Happel-Stadion",
+    "city": "Viena",
+    "country": "Austria",
+    "attendance": "49,730",
+    "referee": "Ion Crăciunescu (Rumania)",
+    "goals": "Ajax: Kluivert (85')"
+  },
+  {
+    "season": "1995-96",
+    "era": "champions",
+    "date": "22/05/1996",
+    "time": "20:30 CEST",
+    "winner": "Juventus",
+    "runnerUp": "Ajax",
+    "score": "1 - 1 (4 - 2 pen.)",
+    "scoreWinner": "1 (4)",
+    "scoreRunnerUp": "(2) 1",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Marcello Lippi", "pais": "it" },
+        "formation": "4-3-3",
+        "startingEleven": [
+          { "nombre": "Angelo Peruzzi (P)", "pais": "it" },
+          { "nombre": "Moreno Torricelli", "pais": "it" },
+          { "nombre": "Ciro Ferrara", "pais": "it" },
+          { "nombre": "Pietro Vierchowod", "pais": "it" },
+          { "nombre": "Gianluca Pessotto", "pais": "it" },
+          { "nombre": "Antonio Conte", "pais": "it" },
+          { "nombre": "Paulo Sousa", "pais": "pt" },
+          { "nombre": "Didier Deschamps", "pais": "fr" },
+          { "nombre": "Fabrizio Ravanelli", "pais": "it" },
+          { "nombre": "Gianluca Vialli (C)", "pais": "it" },
+          { "nombre": "Alessandro del Piero", "pais": "it" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Louis van Gaal", "pais": "nl" },
+        "formation": "",
+        "startingEleven": [
+          { "nombre": "Edwin van der Sar (P)", "pais": "nl" },
+          { "nombre": "Sonny Silooy", "pais": "nl" },
+          { "nombre": "Danny Blind (C)", "pais": "nl" },
+          { "nombre": "Winston Bogarde", "pais": "nl" },
+          { "nombre": "Frank Boer", "pais": "nl" },
+          { "nombre": "Ronald Boer", "pais": "nl" },
+          { "nombre": "Edgar Davids", "pais": "nl" },
+          { "nombre": "Jari Litmanen", "pais": "fi" },
+          { "nombre": "Finidi George", "pais": "ng" },
+          { "nombre": "Nwankwo Kanu", "pais": "ng" },
+          { "nombre": "Kizito Musampa", "pais": "nl" }
+        ]
+      }
+    },
+    "stadium": "Stadio Olimpico",
+    "city": "Roma",
+    "country": "Italia",
+    "attendance": "70,000",
+    "referee": "Manuel Díaz Vega (España)",
+    "goals": "Juventus: Ravanelli (12') | Ajax: Litmanen (41')"
+  },
+  {
+    "season": "1996-97",
+    "era": "champions",
+    "date": "28/05/1997",
+    "time": "20:30 CEST",
+    "winner": "Borussia Dortmund",
+    "runnerUp": "Juventus",
+    "score": "3 - 1",
+    "scoreWinner": "3",
+    "scoreRunnerUp": "1",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Ottmar Hitzfeld", "pais": "de" },
+        "formation": "5-4-2",
+        "startingEleven": [
+          { "nombre": "Stefan Klos (P)", "pais": "de" },
+          { "nombre": "Stefan Reuter", "pais": "de" },
+          { "nombre": "Jürgen Kohler", "pais": "de" },
+          { "nombre": "Matthias Sammer (C)", "pais": "de" },
+          { "nombre": "Martin Kree", "pais": "de" },
+          { "nombre": "Jörg Heinrich", "pais": "de" },
+          { "nombre": "Paul Lambert", "pais": "gb-sct" },
+          { "nombre": "Paulo Sousa", "pais": "pt" },
+          { "nombre": "Andreas Möller", "pais": "de" },
+          { "nombre": "Karl-Heinz Riedle", "pais": "de" },
+          { "nombre": "Stéphane Chapuisat", "pais": "ch" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Marcello Lippi", "pais": "it" },
+        "formation": "4-3-1-2",
+        "startingEleven": [
+          { "nombre": "Angelo Peruzzi (P)(C)", "pais": "it" },
+          { "nombre": "Sergio Porrini", "pais": "it" },
+          { "nombre": "Ciro Ferrara", "pais": "it" },
+          { "nombre": "Paolo Montero", "pais": "uy" },
+          { "nombre": "Mark Iuliano", "pais": "it" },
+          { "nombre": "Didier Deschamps", "pais": "fr" },
+          { "nombre": "Angelo Di Livio", "pais": "it" },
+          { "nombre": "Vladimir Jugović", "pais": "rs" },
+          { "nombre": "Zinedine Zidane", "pais": "fr" },
+          { "nombre": "Christian Vieri", "pais": "it" },
+          { "nombre": "Alen Bokšić", "pais": "hr" }
+        ]
+      }
+    },
+    "stadium": "Olympiastadion",
+    "city": "Berlín",
+    "country": "Alemania",
+    "attendance": "59,000",
+    "referee": "Sándor Puhl (Hungría)",
+    "goals": "Dortmund: Riedle (29', 34'), Ricken (71') | Juventus: Del Piero (65')"
+  },
+  {
+    "season": "1997-98",
+    "era": "champions",
+    "date": "20/05/1998",
+    "time": "20:45 CEST",
+    "winner": "Real Madrid",
+    "runnerUp": "Juventus",
+    "scoreWinner": "1",
+    "scoreRunnerUp": "0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Jupp Heynckes", "pais": "de" },
+        "formation": "",
+        "startingEleven": [
+          { "nombre": "Bodo Illgner (P)", "pais": "de" },
+          { "nombre": "Christian Panucci", "pais": "it" },
+          { "nombre": "Manuel Sanchís (C)", "pais": "es" },
+          { "nombre": "Fernando Hierro", "pais": "es" },
+          { "nombre": "Roberto Carlos", "pais": "br" },
+          { "nombre": "Fernando Redondo", "pais": "ar" },
+          { "nombre": "Christian Karembeu", "pais": "fr" },
+          { "nombre": "Clarence Seedorf", "pais": "nl" },
+          { "nombre": "Raúl González Blanco", "pais": "es" },
+          { "nombre": "Fernando Morientes", "pais": "es" },
+          { "nombre": "Predrag Mijatović", "pais": "me" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Marcello Lippi", "pais": "it" },
+        "formation": "3-4-1-2",
+        "startingEleven": [
+          { "nombre": "Angelo Peruzzi (P)(C)", "pais": "it" },
+          { "nombre": "Angelo Di Livio", "pais": "it" },
+          { "nombre": "Moreno Torricelli", "pais": "it" },
+          { "nombre": "Mark Iuliano", "pais": "it" },
+          { "nombre": "Paolo Montero", "pais": "uy" },
+          { "nombre": "Gianluca Pessotto", "pais": "it" },
+          { "nombre": "Didier Deschamps", "pais": "fr" },
+          { "nombre": "Edgar Davids", "pais": "nl" },
+          { "nombre": "Zinedine Zidane", "pais": "fr" },
+          { "nombre": "Filippo Inzaghi", "pais": "it" },
+          { "nombre": "Alessandro del Piero", "pais": "it" }
+        ]
+      }
+    },
+    "stadium": "Amsterdam ArenA",
+    "city": "Ámsterdam",
+    "country": "Países Bajos",
+    "attendance": "48,500",
+    "referee": "Hellmut Krug (Alemania)",
+    "goals": "Real Madrid: Mijatović (66')"
+  },
+  {
+    "season": "1998-99",
+    "era": "champions",
+    "date": "26/05/1999",
+    "time": "20:45 CEST",
+    "winner": "Manchester United",
+    "runnerUp": "Bayern Múnich",
+    "scoreWinner": "2",
+    "scoreRunnerUp": "1",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Alex Ferguson", "pais": "gb-sct" },
+        "formation": "4-4-2",
+        "startingEleven": [
+          { "nombre": "Peter Schmeichel (P)(C)", "pais": "dk" },
+          { "nombre": "Gary Neville", "pais": "gb-eng" },
+          { "nombre": "Ronny Johnsen", "pais": "no" },
+          { "nombre": "Jaap Stam", "pais": "nl" },
+          { "nombre": "Denis Irwin", "pais": "ie" },
+          { "nombre": "Ryan Giggs", "pais": "gb-wls" },
+          { "nombre": "David Beckham", "pais": "gb-eng" },
+          { "nombre": "Nicky Butt", "pais": "gb-eng" },
+          { "nombre": "Jesper Blomqvist", "pais": "se" },
+          { "nombre": "Dwight Yorke", "pais": "tt" },
+          { "nombre": "Andy Cole", "pais": "gb-eng" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Ottmar Hitzfeld", "pais": "de" },
+        "formation": "5-3-2",
+        "startingEleven": [
+          { "nombre": "Oliver Kahn (P)(C)", "pais": "de" },
+          { "nombre": "Lothar Matthäus", "pais": "de" },
+          { "nombre": "Markus Babbel", "pais": "de" },
+          { "nombre": "Thomas Linke", "pais": "de" },
+          { "nombre": "Samuel Kuffour", "pais": "gh" },
+          { "nombre": "Michael Tarnat", "pais": "de" },
+          { "nombre": "Stefan Effenberg", "pais": "de" },
+          { "nombre": "Jens Jeremies", "pais": "de" },
+          { "nombre": "Mario Basler", "pais": "de" },
+          { "nombre": "Carsten Jancker", "pais": "de" },
+          { "nombre": "Alexander Zickler", "pais": "de" }
+        ]
+      }
+    },
+    "stadium": "Camp Nou",
+    "city": "Barcelona",
+    "country": "España",
+    "attendance": "90,245",
+    "referee": "Pierluigi Collina (Italia)",
+    "goals": "Man. United: Sheringham (90+1'), Solskjær (90+3') | Bayern: Basler (6')"
+  },
+  {
+    "season": "1999-00",
+    "era": "champions",
+    "date": "24/05/2000",
+    "time": "20:45 CEST",
+    "winner": "Real Madrid",
+    "runnerUp": "Valencia CF",
+    "scoreWinner": "3",
+    "scoreRunnerUp": "0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Vicente del Bosque", "pais": "es" },
+        "formation": "5-3-2",
+        "startingEleven": [
+          { "nombre": "Iker Casillas (P)", "pais": "es" },
+          { "nombre": "Míchel Salgado", "pais": "es" },
+          { "nombre": "Aitor Karanka", "pais": "es" },
+          { "nombre": "Iván Helguera", "pais": "es" },
+          { "nombre": "Iván Campo", "pais": "es" },
+          { "nombre": "Roberto Carlos", "pais": "br" },
+          { "nombre": "Fernando Redondo (C)", "pais": "ar" },
+          { "nombre": "Steve McManaman", "pais": "gb-eng" },
+          { "nombre": "Raúl González Blanco", "pais": "es" },
+          { "nombre": "Nicolas Anelka", "pais": "fr" },
+          { "nombre": "Fernando Morientes", "pais": "es" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Héctor Cúper", "pais": "ar" },
+        "formation": "4-3-1-2",
+        "startingEleven": [
+          { "nombre": "Santiago Cañizares (P)", "pais": "es" },
+          { "nombre": "Jocelyn Angloma", "pais": "fr" },
+          { "nombre": "Miroslav Đukić", "pais": "rs" },
+          { "nombre": "Mauricio Pellegrino", "pais": "ar" },
+          { "nombre": "Gerardo García", "pais": "es" },
+          { "nombre": "Francisco Javier Farinós", "pais": "es" },
+          { "nombre": "Gaizka Mendieta (C)", "pais": "es" },
+          { "nombre": "«Kily» González", "pais": "ar" },
+          { "nombre": "Gerard López", "pais": "es" },
+          { "nombre": "Miguel Ángel Angulo", "pais": "es" },
+          { "nombre": "Claudio «Piojo» López", "pais": "ar" }
+        ]
+      }
+    },
+    "stadium": "Stade de France",
+    "city": "Saint-Denis",
+    "country": "Francia",
+    "attendance": "80,000",
+    "referee": "Stefano Braschi (Italia)",
+    "goals": "Real Madrid: Morientes (39'), McManaman (67'), Raúl (75')"
+  }
+]

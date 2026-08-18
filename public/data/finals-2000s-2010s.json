@@ -1,0 +1,1032 @@
+[
+  {
+    "season": "2000-01",
+    "era": "champions",
+    "date": "23/05/2001",
+    "time": "20:45 CEST",
+    "winner": "Bayern Múnich",
+    "runnerUp": "Valencia CF",
+    "scoreWinner": "1 (5)",
+    "scoreRunnerUp": "(4) 1",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Ottmar Hitzfeld", "pais": "de" },
+        "formation": "4-5-1",
+        "startingEleven": [
+          { "nombre": "Oliver Kahn (P)", "pais": "de" },
+          { "nombre": "Willy Sagnol", "pais": "fr" },
+          { "nombre": "Samuel Kuffour", "pais": "gh" },
+          { "nombre": "Patrik Andersson", "pais": "se" },
+          { "nombre": "Thomas Linke", "pais": "de" },
+          { "nombre": "Bixente Lizarazu", "pais": "fr" },
+          { "nombre": "Owen Hargreaves", "pais": "gb-eng" },
+          { "nombre": "Stefan Effenberg (C)", "pais": "de" },
+          { "nombre": "Mehmet Scholl", "pais": "de" },
+          { "nombre": "Hasan Salihamidžić", "pais": "ba" },
+          { "nombre": "Giovane Élber", "pais": "br" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "", "pais": "" },
+        "formation": "",
+        "startingEleven": [
+          { "nombre": "", "pais": "" },
+          { "nombre": "", "pais": "" },
+          { "nombre": "", "pais": "" },
+          { "nombre": "", "pais": "" },
+          { "nombre": "", "pais": "" },
+          { "nombre": "", "pais": "" },
+          { "nombre": "", "pais": "" },
+          { "nombre": "", "pais": "" },
+          { "nombre": "", "pais": "" },
+          { "nombre": "", "pais": "" },
+          { "nombre": "", "pais": "" }
+        ]
+      }
+    },
+    "stadium": "San Siro",
+    "city": "Milán",
+    "country": "Italia",
+    "attendance": "79,000",
+    "referee": "Dick Jol (Países Bajos)",
+    "goals": "Bayern: Effenberg (50' pen.) | Valencia: Mendieta (3' pen.)"
+  },
+  {
+    "season": "2001-02",
+    "era": "champions",
+    "date": "15/05/2002",
+    "time": "19:45 BST",
+    "winner": "Real Madrid",
+    "runnerUp": "Bayer Leverkusen",
+    "scoreWinner": "2",
+    "scoreRunnerUp": "1",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Vicente del Bosque", "pais": "es" },
+        "formation": "4-3-1-2",
+        "startingEleven": [
+          { "nombre": "César Sánchez (P)", "pais": "es" },
+          { "nombre": "Míchel Salgado", "pais": "es" },
+          { "nombre": "Fernando Hierro (C)", "pais": "es" },
+          { "nombre": "Iván Helguera", "pais": "es" },
+          { "nombre": "Roberto Carlos", "pais": "br" },
+          { "nombre": "Claude Makelele", "pais": "fr" },
+          { "nombre": "Luís Figo", "pais": "pt" },
+          { "nombre": "Santiago Solari", "pais": "ar" },
+          { "nombre": "Zinedine Zidane", "pais": "fr" },
+          { "nombre": "Raúl González Blanco", "pais": "es" },
+          { "nombre": "Fernando Morientes", "pais": "es" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Klaus Toppmöller", "pais": "de" },
+        "formation": "4-1-3-1-1",
+        "startingEleven": [
+          { "nombre": "Hans-Jörg Butt (P)", "pais": "de" },
+          { "nombre": "Zoltán Sebescen", "pais": "de" },
+          { "nombre": "Boris Živković", "pais": "hr" },
+          { "nombre": "Lúcio", "pais": "br" },
+          { "nombre": "Diego Placente", "pais": "ar" },
+          { "nombre": "Carsten Ramelow (C)", "pais": "de" },
+          { "nombre": "Bernd Schneider", "pais": "de" },
+          { "nombre": "Michael Ballack", "pais": "de" },
+          { "nombre": "Thomas Brdarić", "pais": "de" },
+          { "nombre": "Yıldıray Baştürk", "pais": "tr" },
+          { "nombre": "Oliver Neuville", "pais": "de" }
+        ]
+      }
+    },
+    "stadium": "Hampden Park",
+    "city": "Glasgow",
+    "country": "Escocia",
+    "attendance": "50,499",
+    "referee": "Urs Meier (Suiza)",
+    "goals": "Real Madrid: Raúl (8'), Zidane (45') | Leverkusen: Lúcio (13')"
+  },
+  {
+    "season": "2002-03",
+    "era": "champions",
+    "date": "28/05/2003",
+    "time": "19:45 BST",
+    "winner": "AC Milan",
+    "runnerUp": "Juventus",
+    "scoreWinner": "0 (3)",
+    "scoreRunnerUp": "(2) 0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Carlo Ancelotti", "pais": "it" },
+        "formation": "",
+        "startingEleven": [
+          { "nombre": "Dida (P)", "pais": "br" },
+          { "nombre": "Alessandro Costacurta", "pais": "it" },
+          { "nombre": "Alessandro Nesta", "pais": "it" },
+          { "nombre": "Paolo Maldini (C)", "pais": "it" },
+          { "nombre": "«Kakha» Kaladze", "pais": "ge" },
+          { "nombre": "Gennaro Gattuso", "pais": "it" },
+          { "nombre": "Andrea Pirlo", "pais": "it" },
+          { "nombre": "Clarence Seedorf", "pais": "nl" },
+          { "nombre": "Rui Costa", "pais": "pt" },
+          { "nombre": "Andriy Shevchenko", "pais": "ua" },
+          { "nombre": "Filippo Inzaghi", "pais": "it" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Marcello Lippi", "pais": "it" },
+        "formation": "",
+        "startingEleven": [
+          { "nombre": "Gianluigi Buffon (P)", "pais": "it" },
+          { "nombre": "Lilian Thuram", "pais": "fr" },
+          { "nombre": "Ciro Ferrara", "pais": "it" },
+          { "nombre": "Igor Tudor", "pais": "hr" },
+          { "nombre": "Paolo Montero", "pais": "uy" },
+          { "nombre": "Mauro Camoranesi", "pais": "it" },
+          { "nombre": "Alessio Tacchinardi", "pais": "it" },
+          { "nombre": "Edgar Davids", "pais": "nl" },
+          { "nombre": "Gianluca Zambrotta", "pais": "it" },
+          { "nombre": "Alessandro Del Piero (C)", "pais": "it" },
+          { "nombre": "David Trezeguet", "pais": "fr" }
+        ]
+      }
+    },
+    "stadium": "Old Trafford",
+    "city": "Mánchester",
+    "country": "Inglaterra",
+    "attendance": "62,315",
+    "referee": "Markus Merk (Alemania)",
+    "goals": "Sin goles tras 120 minutos."
+  },
+  {
+    "season": "2003-04",
+    "era": "champions",
+    "date": "26/05/2004",
+    "time": "20:45 CEST",
+    "winner": "FC Porto",
+    "runnerUp": "AS Mónaco",
+    "scoreWinner": "3",
+    "scoreRunnerUp": "0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "José Mourinho", "pais": "pt" },
+        "formation": "4-3-1-2",
+        "startingEleven": [
+          { "nombre": "Vítor Baía (P)", "pais": "pt" },
+          { "nombre": "Paulo Ferreira", "pais": "pt" },
+          { "nombre": "Jorge Costa (C)", "pais": "pt" },
+          { "nombre": "Ricardo Carvalho", "pais": "pt" },
+          { "nombre": "Nuno Valente", "pais": "pt" },
+          { "nombre": "Pedro Mendes", "pais": "pt" },
+          { "nombre": "Costinha", "pais": "pt" },
+          { "nombre": "Maniche", "pais": "pt" },
+          { "nombre": "Deco", "pais": "pt" },
+          { "nombre": "Derlei", "pais": "br" },
+          { "nombre": "Carlos Alberto", "pais": "br" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Didier Deschamps", "pais": "fr" },
+        "formation": "4-3-3",
+        "startingEleven": [
+          { "nombre": "Flavio Roma (P)", "pais": "it" },
+          { "nombre": "Hugo Ibarra", "pais": "ar" },
+          { "nombre": "Julien Rodriguez", "pais": "fr" },
+          { "nombre": "Gaël Givet", "pais": "fr" },
+          { "nombre": "Patrice Evra", "pais": "fr" },
+          { "nombre": "Edouard Cissé", "pais": "fr" },
+          { "nombre": "Lucas Bernardi", "pais": "ar" },
+          { "nombre": "Andreas Zikos", "pais": "gr" },
+          { "nombre": "Ludovic Giuly (C)", "pais": "fr" },
+          { "nombre": "Jérôme Rothen", "pais": "fr" },
+          { "nombre": "Fernando Morientes", "pais": "es" }
+        ]
+      }
+    },
+    "stadium": "Arena AufSchalke",
+    "city": "Gelsenkirchen",
+    "country": "Alemania",
+    "attendance": "53,053",
+    "referee": "Kim Milton Nielsen (Dinamarca)",
+    "goals": "Porto: Carlos Alberto (39'), Deco (71'), Alenichev (75')"
+  },
+  {
+    "season": "2004-05",
+    "era": "champions",
+    "date": "25/05/2005",
+    "time": "21:45 EEST",
+    "winner": "Liverpool",
+    "runnerUp": "AC Milan",
+    "scoreWinner": "3 (3)",
+    "scoreRunnerUp": "(2) 3",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Rafael Benítez", "pais": "es" },
+        "formation": "4-1-3-2",
+        "startingEleven": [
+          { "nombre": "Jerzy Dudek (P)", "pais": "pl" },
+          { "nombre": "Steve Finnan", "pais": "ie" },
+          { "nombre": "Jamie Carragher", "pais": "gb-eng" },
+          { "nombre": "Sami Hyypiä", "pais": "fi" },
+          { "nombre": "Djimi Traoré", "pais": "ml" },
+          { "nombre": "Xabi Alonso", "pais": "es" },
+          { "nombre": "Luis García", "pais": "es" },
+          { "nombre": "Steven Gerrard (C)", "pais": "gb-eng" },
+          { "nombre": "John Arne Riise", "pais": "no" },
+          { "nombre": "Harry Kewell", "pais": "au" },
+          { "nombre": "Milan Baroš", "pais": "cz" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Carlo Ancelotti", "pais": "it" },
+        "formation": "4-3-1-2",
+        "startingEleven": [
+          { "nombre": "Dida (P)", "pais": "br" },
+          { "nombre": "Cafú", "pais": "br" },
+          { "nombre": "Jaap Stam", "pais": "nl" },
+          { "nombre": "Alessandro Nesta", "pais": "it" },
+          { "nombre": "Paolo Maldini (C)", "pais": "it" },
+          { "nombre": "Andrea Pirlo", "pais": "it" },
+          { "nombre": "Gennaro Gattuso", "pais": "it" },
+          { "nombre": "Clarence Seedorf", "pais": "nl" },
+          { "nombre": "Kaká", "pais": "br" },
+          { "nombre": "Andriy Shevchenko", "pais": "ua" },
+          { "nombre": "Hernán Crespo", "pais": "ar" }
+        ]
+      }
+    },
+    "stadium": "Atatürk Olympic Stadium",
+    "city": "Estambul",
+    "country": "Turquía",
+    "attendance": "69,000",
+    "referee": "Manuel Mejuto González (España)",
+    "goals": "Liverpool: Gerrard (54'), Smicer (56'), Xabi Alonso (60') | AC Milan: Maldini (1'), Crespo (39', 44')"
+  },
+  {
+    "season": "2005-06",
+    "era": "champions",
+    "date": "17/05/2006",
+    "time": "20:45 CEST",
+    "winner": "FC Barcelona",
+    "runnerUp": "Arsenal FC",
+    "scoreWinner": "2",
+    "scoreRunnerUp": "1",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Frank Rijkaard", "pais": "nl" },
+        "formation": "4-3-3",
+        "startingEleven": [
+          { "nombre": "Víctor Valdés (P)", "pais": "es" },
+          { "nombre": "Oleguer Presas", "pais": "es" },
+          { "nombre": "Carles Puyol (C)", "pais": "es" },
+          { "nombre": "Rafael Márquez", "pais": "mx" },
+          { "nombre": "Giovanni van Bronckhorst", "pais": "nl" },
+          { "nombre": "Edmílson", "pais": "br" },
+          { "nombre": "Mark van Bommel", "pais": "nl" },
+          { "nombre": "Deco", "pais": "pt" },
+          { "nombre": "Ludovic Giuly", "pais": "fr" },
+          { "nombre": "Ronaldinho", "pais": "br" },
+          { "nombre": "Samuel Eto'o", "pais": "cm" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Arsène Wenger", "pais": "fr" },
+        "formation": "4-4-2",
+        "startingEleven": [
+          { "nombre": "Jens Lehmann (P)", "pais": "de" },
+          { "nombre": "Emmanuel Eboué", "pais": "ci" },
+          { "nombre": "Kolo Touré", "pais": "ci" },
+          { "nombre": "Sol Campbell", "pais": "gb-eng" },
+          { "nombre": "Ashley Cole", "pais": "gb-eng" },
+          { "nombre": "Gilberto Silva", "pais": "br" },
+          { "nombre": "Aliaksandr Hleb", "pais": "by" },
+          { "nombre": "Robert Pirès", "pais": "fr" },
+          { "nombre": "Cesc Fàbregas", "pais": "es" },
+          { "nombre": "Fredrik Ljungberg", "pais": "se" },
+          { "nombre": "Thierry Henry (C)", "pais": "fr" }
+        ]
+      }
+    },
+    "stadium": "Stade de France",
+    "city": "Saint-Denis",
+    "country": "Francia",
+    "attendance": "79,610",
+    "referee": "Terje Hauge (Noruega)",
+    "goals": "Barcelona: Etoo (76'), Belletti (80') | Arsenal: Campbell (37')"
+  },
+  {
+    "season": "2006-07",
+    "era": "champions",
+    "date": "23/05/2007",
+    "time": "21:45 EEST",
+    "winner": "AC Milan",
+    "runnerUp": "Liverpool",
+    "scoreWinner": "2",
+    "scoreRunnerUp": "1",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Carlo Ancelotti", "pais": "it" },
+        "formation": "4-4-2",
+        "startingEleven": [
+          { "nombre": "Dida (P)", "pais": "br" },
+          { "nombre": "Massimo Oddo", "pais": "it" },
+          { "nombre": "Alessandro Nesta", "pais": "it" },
+          { "nombre": "Paolo Maldini (C)", "pais": "it" },
+          { "nombre": "Marek Jankulovski", "pais": "cz" },
+          { "nombre": "Gennaro Gattuso", "pais": "it" },
+          { "nombre": "Andrea Pirlo", "pais": "it" },
+          { "nombre": "Massimo Ambrosini", "pais": "it" },
+          { "nombre": "Clarence Seedorf", "pais": "nl" },
+          { "nombre": "Kaká", "pais": "br" },
+          { "nombre": "Filippo Inzaghi", "pais": "it" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Rafael Benítez", "pais": "es" },
+        "formation": "4-2-3-1",
+        "startingEleven": [
+          { "nombre": "Pepe Reina (P)", "pais": "es" },
+          { "nombre": "Steve Finnan", "pais": "ie" },
+          { "nombre": "Jamie Carragher", "pais": "gb-eng" },
+          { "nombre": "Daniel Agger", "pais": "dk" },
+          { "nombre": "John Arne Riise", "pais": "no" },
+          { "nombre": "Xabi Alonso", "pais": "es" },
+          { "nombre": "Javier Mascherano", "pais": "ar" },
+          { "nombre": "Jermaine Pennant", "pais": "gb-eng" },
+          { "nombre": "Boudewijn Zenden", "pais": "nl" },
+          { "nombre": "Steven Gerrard (C)", "pais": "gb-eng" },
+          { "nombre": "Dirk Kuyt", "pais": "nl" }
+        ]
+      }
+    },
+    "stadium": "Olimpico de Atenas",
+    "city": "Atenas",
+    "country": "Grecia",
+    "attendance": "63,000",
+    "referee": "Herbert Fandel (Alemania)",
+    "goals": "AC Milan: Inzaghi (45', 82') | Liverpool: Kuyt (89')"
+  },
+  {
+    "season": "2007-08",
+    "era": "champions",
+    "date": "21/05/2008",
+    "time": "22:45 MSK",
+    "winner": "Manchester United",
+    "runnerUp": "Chelsea FC",
+    "scoreWinner": "1 (6)",
+    "scoreRunnerUp": "(5) 1",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Alex Ferguson", "pais": "gb-sct" },
+        "formation": "4-4-2",
+        "startingEleven": [
+          { "nombre": "Edwin van der Sar (P)", "pais": "nl" },
+          { "nombre": "Wes Brown", "pais": "gb-eng" },
+          { "nombre": "Rio Ferdinand (C)", "pais": "gb-eng" },
+          { "nombre": "Nemanja Vidić", "pais": "rs" },
+          { "nombre": "Patrice Evra", "pais": "fr" },
+          { "nombre": "Owen Hargreaves", "pais": "gb-eng" },
+          { "nombre": "Michael Carrick", "pais": "gb-eng" },
+          { "nombre": "Paul Scholes", "pais": "gb-eng" },
+          { "nombre": "Cristiano Ronaldo", "pais": "pt" },
+          { "nombre": "Wayne Rooney", "pais": "gb-eng" },
+          { "nombre": "Carlos Tévez", "pais": "ar" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "", "pais": "" },
+        "formation": "",
+        "startingEleven": [
+          { "nombre": "", "pais": "" }
+        ]
+      }
+    },
+    "stadium": "Luzhniki Stadium",
+    "city": "Moscú",
+    "country": "Rusia",
+    "attendance": "67,310",
+    "referee": "LUBOS MICHEL (Eslovaquia)",
+    "goals": "Man. United: Cristiano Ronaldo (26') | Chelsea: Lampard (45')"
+  },
+  {
+    "season": "2008-09",
+    "era": "champions",
+    "date": "27/05/2009",
+    "time": "20:45 CEST",
+    "winner": "FC Barcelona",
+    "runnerUp": "Manchester United",
+    "scoreWinner": "2",
+    "scoreRunnerUp": "0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Josep Guardiola", "pais": "es" },
+        "formation": "4-3-3",
+        "startingEleven": [
+          { "nombre": "Víctor Valdés (P)", "pais": "es" },
+          { "nombre": "Carles Puyol (C)", "pais": "es" },
+          { "nombre": "Yaya Touré", "pais": "ci" },
+          { "nombre": "Gerard Piqué", "pais": "es" },
+          { "nombre": "Sylvinho", "pais": "br" },
+          { "nombre": "Sergio Busquets", "pais": "es" },
+          { "nombre": "Xavi Hernández", "pais": "es" },
+          { "nombre": "Andrés Iniesta", "pais": "es" },
+          { "nombre": "Lionel Messi", "pais": "ar" },
+          { "nombre": "Samuel Eto'o", "pais": "cm" },
+          { "nombre": "Thierry Henry", "pais": "fr" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Alex Ferguson", "pais": "gb-sct" },
+        "formation": "4-4-2",
+        "startingEleven": [
+          { "nombre": "Edwin van der Sar (P)", "pais": "nl" },
+          { "nombre": "John O'Shea", "pais": "ie" },
+          { "nombre": "Rio Ferdinand", "pais": "gb-eng" },
+          { "nombre": "Nemanja Vidić", "pais": "rs" },
+          { "nombre": "Patrice Evra", "pais": "fr" },
+          { "nombre": "Michael Carrick", "pais": "gb-eng" },
+          { "nombre": "Anderson", "pais": "br" },
+          { "nombre": "Ryan Giggs (C)", "pais": "gb-wls" },
+          { "nombre": "Park Ji-Sung", "pais": "kr" },
+          { "nombre": "Cristiano Ronaldo", "pais": "pt" },
+          { "nombre": "Wayne Rooney", "pais": "gb-eng" }
+        ]
+      }
+    },
+    "stadium": "Stadio Olimpico",
+    "city": "Roma",
+    "country": "Italia",
+    "attendance": "62,467",
+    "referee": "Massimo Busacca (Suiza)",
+    "goals": "Barcelona: Etoo (10'), Messi (70')"
+  },
+  {
+    "season": "2009-10",
+    "era": "champions",
+    "date": "22/05/2010",
+    "time": "20:45 CEST",
+    "winner": "Inter de Milán",
+    "runnerUp": "Bayern Múnich",
+    "scoreWinner": "2",
+    "scoreRunnerUp": "0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "José Mourinho", "pais": "pt" },
+        "formation": "4-3-3",
+        "startingEleven": [
+          { "nombre": "Júlio César (P)", "pais": "br" },
+          { "nombre": "Maicon", "pais": "br" },
+          { "nombre": "Lúcio", "pais": "br" },
+          { "nombre": "Walter Samuel", "pais": "ar" },
+          { "nombre": "Cristian Chivu", "pais": "ro" },
+          { "nombre": "Javier Zanetti (C)", "pais": "ar" },
+          { "nombre": "Esteban Cambiasso", "pais": "ar" },
+          { "nombre": "Wesley Sneijder", "pais": "nl" },
+          { "nombre": "Samuel Eto'o", "pais": "cm" },
+          { "nombre": "Diego Milito", "pais": "ar" },
+          { "nombre": "Goran Pandev", "pais": "mk" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Louis van Gaal", "pais": "nl" },
+        "formation": "4-4-2",
+        "startingEleven": [
+          { "nombre": "Hans-Jörg Butt (P)", "pais": "de" },
+          { "nombre": "Philipp Lahm", "pais": "de" },
+          { "nombre": "Daniel van Buyten", "pais": "be" },
+          { "nombre": "Martín Demichelis", "pais": "ar" },
+          { "nombre": "Holger Badstuber", "pais": "de" },
+          { "nombre": "Mark van Bommel (C)", "pais": "nl" },
+          { "nombre": "Bastian Schweinsteiger", "pais": "de" },
+          { "nombre": "Hamit Altıntop", "pais": "tr" },
+          { "nombre": "Thomas Müller", "pais": "de" },
+          { "nombre": "Arjen Robben", "pais": "nl" },
+          { "nombre": "Ivica Olić", "pais": "hr" }
+        ]
+      }
+    },
+    "stadium": "Santiago Bernabéu",
+    "city": "Madrid",
+    "country": "España",
+    "attendance": "73,490",
+    "referee": "Howard Webb (Inglaterra)",
+    "goals": "Inter: Milito (35', 70')"
+  },
+  {
+    "season": "2010-11",
+    "era": "champions",
+    "date": "28/05/2011",
+    "time": "19:45 BST",
+    "winner": "FC Barcelona",
+    "runnerUp": "Manchester United",
+    "scoreWinner": "3",
+    "scoreRunnerUp": "1",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Josep Guardiola", "pais": "es" },
+        "formation": "4-3-3",
+        "startingEleven": [
+          { "nombre": "Víctor Valdés (P)", "pais": "es" },
+          { "nombre": "Dani Alves", "pais": "br" },
+          { "nombre": "Javier Mascherano", "pais": "ar" },
+          { "nombre": "Gerard Piqué", "pais": "es" },
+          { "nombre": "Éric Abidal", "pais": "fr" },
+          { "nombre": "Sergio Busquets", "pais": "es" },
+          { "nombre": "Xavi Hernández (C)", "pais": "es" },
+          { "nombre": "Andrés Iniesta", "pais": "es" },
+          { "nombre": "Lionel Messi", "pais": "ar" },
+          { "nombre": "David Villa", "pais": "es" },
+          { "nombre": "Pedro Rodríguez", "pais": "es" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Alex Ferguson", "pais": "gb-sct" },
+        "formation": "4-4-2",
+        "startingEleven": [
+          { "nombre": "Edwin van der Sar (P)", "pais": "nl" },
+          { "nombre": "Fábio da Silva", "pais": "br" },
+          { "nombre": "Rio Ferdinand", "pais": "gb-eng" },
+          { "nombre": "Nemanja Vidić (C)", "pais": "rs" },
+          { "nombre": "Patrice Evra", "pais": "fr" },
+          { "nombre": "Antonio Valencia", "pais": "ec" },
+          { "nombre": "Michael Carrick", "pais": "gb-eng" },
+          { "nombre": "Ryan Giggs", "pais": "gb-wls" },
+          { "nombre": "Park Ji-Sung", "pais": "kr" },
+          { "nombre": "Wayne Rooney", "pais": "gb-eng" },
+          { "nombre": "Javier Hernández", "pais": "mx" }
+        ]
+      }
+    },
+    "stadium": "Wembley Stadium",
+    "city": "Londres",
+    "country": "Inglaterra",
+    "attendance": "87,695",
+    "referee": "Viktor Kassai (Hungría)",
+    "goals": "Barcelona: Pedro (27'), Messi (54'), Villa (69') | Man. United: Rooney (34')"
+  },
+  {
+    "season": "2011-12",
+    "era": "champions",
+    "date": "19/05/2012",
+    "time": "20:45 CEST",
+    "winner": "Chelsea FC",
+    "runnerUp": "Bayern Múnich",
+    "scoreWinner": "1 (4)",
+    "scoreRunnerUp": "(3) 1",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Roberto Di Matteo", "pais": "it" },
+        "formation": "4-2-3-1",
+        "startingEleven": [
+          { "nombre": "Petr Čech (P)", "pais": "cz" },
+          { "nombre": "José Bosingwa", "pais": "pt" },
+          { "nombre": "David Luiz", "pais": "br" },
+          { "nombre": "Gary Cahill", "pais": "gb-eng" },
+          { "nombre": "Ashley Cole", "pais": "gb-eng" },
+          { "nombre": "John Obi Mikel", "pais": "ng" },
+          { "nombre": "Frank Lampard (C)", "pais": "gb-eng" },
+          { "nombre": "Salomon Kalou", "pais": "ci" },
+          { "nombre": "Juan Mata", "pais": "es" },
+          { "nombre": "Ryan Bertrand", "pais": "gb-eng" },
+          { "nombre": "Didier Drogba", "pais": "ci" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Jupp Heynckes", "pais": "de" },
+        "formation": "4-2-3-1",
+        "startingEleven": [
+          { "nombre": "Manuel Neuer (P)", "pais": "de" },
+          { "nombre": "Philipp Lahm (C)", "pais": "de" },
+          { "nombre": "Jérôme Boateng", "pais": "de" },
+          { "nombre": "Anatoli Timoshchuk", "pais": "ua" },
+          { "nombre": "Diego Contento", "pais": "pt" },
+          { "nombre": "Toni Kroos", "pais": "de" },
+          { "nombre": "Bastian Schweinsteiger", "pais": "de" },
+          { "nombre": "Arjen Robben", "pais": "nl" },
+          { "nombre": "Thomas Müller", "pais": "de" },
+          { "nombre": "Franck Ribéry", "pais": "fr" },
+          { "nombre": "Mario Gómez", "pais": "de" }
+        ]
+      }
+    },
+    "stadium": "Allianz Arena",
+    "city": "Múnich",
+    "country": "Alemania",
+    "attendance": "62,500",
+    "referee": "Pedro Proença (Portugal)",
+    "goals": "Chelsea: Drogba (88') | Bayern: Müller (83')"
+  },
+  {
+    "season": "2012-13",
+    "era": "champions",
+    "date": "25/05/2013",
+    "time": "19:45 BST",
+    "winner": "Bayern Múnich",
+    "runnerUp": "Borussia Dortmund",
+    "scoreWinner": "2",
+    "scoreRunnerUp": "1",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Jupp Heynckes", "pais": "de" },
+        "formation": "4-2-3-1",
+        "startingEleven": [
+          { "nombre": "Manuel Neuer (P)", "pais": "de" },
+          { "nombre": "Philipp Lahm (C)", "pais": "de" },
+          { "nombre": "Jérôme Boateng", "pais": "de" },
+          { "nombre": "Dante", "pais": "br" },
+          { "nombre": "David Alaba", "pais": "at" },
+          { "nombre": "Bastian Schweinsteiger", "pais": "de" },
+          { "nombre": "Javi Martínez", "pais": "es" },
+          { "nombre": "Arjen Robben", "pais": "nl" },
+          { "nombre": "Thomas Müller", "pais": "de" },
+          { "nombre": "Franck Ribéry", "pais": "fr" },
+          { "nombre": "Mario Mandžukić", "pais": "hr" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Jürgen Klopp", "pais": "de" },
+        "formation": "4-2-3-1",
+        "startingEleven": [
+          { "nombre": "Roman Weidenfeller (P)(C)", "pais": "de" },
+          { "nombre": "Łukasz Piszczek", "pais": "pl" },
+          { "nombre": "Neven Subotić", "pais": "rs" },
+          { "nombre": "Mats Hummels", "pais": "de" },
+          { "nombre": "Marcel Schmelzer", "pais": "de" },
+          { "nombre": "İlkay Gündoğan", "pais": "de" },
+          { "nombre": "Sven Bender", "pais": "de" },
+          { "nombre": "Jakub Błaszczykowski", "pais": "pl" },
+          { "nombre": "Marco Reus", "pais": "de" },
+          { "nombre": "Kevin Großkreutz", "pais": "de" },
+          { "nombre": "Robert Lewandowski", "pais": "pl" }
+        ]
+      }
+    },
+    "stadium": "Wembley Stadium",
+    "city": "Londres",
+    "country": "Inglaterra",
+    "attendance": "86,298",
+    "referee": "Nicola Rizzoli (Italia)",
+    "goals": "Bayern: Mandžukić (60'), Robben (89') | Dortmund: Gündoğan (68' pen.)"
+  },
+  {
+    "season": "2013-14",
+    "era": "champions",
+    "date": "24/05/2014",
+    "time": "19:45 WEST",
+    "winner": "Real Madrid",
+    "runnerUp": "Atlético de Madrid",
+    "scoreWinner": "4 (t.",
+    "scoreRunnerUp": "s.) 1",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Carlo Ancelotti", "pais": "it" },
+        "formation": "4-3-3",
+        "startingEleven": [
+          { "nombre": "Iker Casillas (P)(C)", "pais": "es" },
+          { "nombre": "Sergio Ramos", "pais": "es" },
+          { "nombre": "Raphaël Varane", "pais": "fr" },
+          { "nombre": "Fábio Coentrão", "pais": "pt" },
+          { "nombre": "Daniel Carvajal", "pais": "es" },
+          { "nombre": "Sami Khedira", "pais": "de" },
+          { "nombre": "Luka Modrić", "pais": "hr" },
+          { "nombre": "Ángel Di María", "pais": "ar" },
+          { "nombre": "Gareth Bale", "pais": "gb-wls" },
+          { "nombre": "Cristiano Ronaldo", "pais": "pt" },
+          { "nombre": "Karim Benzema", "pais": "fr" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Diego Simeone", "pais": "ar" },
+        "formation": "4-4-2",
+        "startingEleven": [
+          { "nombre": "Thibaut Courtois", "pais": "be" },
+          { "nombre": "Diego Godín", "pais": "uy" },
+          { "nombre": "Filipe Luís", "pais": "br" },
+          { "nombre": "João Miranda", "pais": "br" },
+          { "nombre": "Juanfran Torres", "pais": "es" },
+          { "nombre": "Raúl García", "pais": "es" },
+          { "nombre": "Tiago Mendes", "pais": "pt" },
+          { "nombre": "Gabi (C)", "pais": "es" },
+          { "nombre": "Koke", "pais": "es" },
+          { "nombre": "Diego Costa", "pais": "es" },
+          { "nombre": "David Villa", "pais": "es" }
+        ]
+      }
+    },
+    "stadium": "Estádio da Luz",
+    "city": "Lisboa",
+    "country": "Portugal",
+    "attendance": "60,976",
+    "referee": "Björn Kuipers (Países Bajos)",
+    "goals": "Real Madrid: Ramos (90+3'), Bale (110'), Marcelo (118'), Ronaldo (120' pen.) | Atlético: Godín (36')"
+  },
+  {
+    "season": "2014-15",
+    "era": "champions",
+    "date": "06/06/2015",
+    "time": "20:45 CEST",
+    "winner": "FC Barcelona",
+    "runnerUp": "Juventus",
+    "scoreWinner": "3",
+    "scoreRunnerUp": "1",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Luis Enrique", "pais": "es" },
+        "formation": "4-3-3",
+        "startingEleven": [
+          { "nombre": "Marc-André Ter Stegen (P)", "pais": "de" },
+          { "nombre": "Dani Alves", "pais": "br" },
+          { "nombre": "Gerard Piqué", "pais": "es" },
+          { "nombre": "Javier Mascherano", "pais": "ar" },
+          { "nombre": "Jordi Alba", "pais": "es" },
+          { "nombre": "Ivan Rakitić", "pais": "hr" },
+          { "nombre": "Sergio Busquets", "pais": "es" },
+          { "nombre": "Andrés Iniesta (C)", "pais": "es" },
+          { "nombre": "Lionel Messi", "pais": "ar" },
+          { "nombre": "Luis Suárez", "pais": "uy" },
+          { "nombre": "Neymar Junior", "pais": "br" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Massimiliano Allegri", "pais": "it" },
+        "formation": "4-3-1-2",
+        "startingEleven": [
+          { "nombre": "Gianluigi Buffon (P)(C)", "pais": "it" },
+          { "nombre": "Stephan Lichtsteiner", "pais": "ch" },
+          { "nombre": "Andrea Barzagli", "pais": "it" },
+          { "nombre": "Leonardo Bonucci", "pais": "it" },
+          { "nombre": "Patrice Evra", "pais": "fr" },
+          { "nombre": "Andrea Pirlo", "pais": "it" },
+          { "nombre": "Claudio Marchisio", "pais": "it" },
+          { "nombre": "Paul Pogba", "pais": "fr" },
+          { "nombre": "Arturo Vidal", "pais": "cl" },
+          { "nombre": "Carlos Tevez", "pais": "ar" },
+          { "nombre": "Álvaro Morata", "pais": "es" }
+        ]
+      }
+    },
+    "stadium": "Olympiastadion",
+    "city": "Berlín",
+    "country": "Alemania",
+    "attendance": "70,442",
+    "referee": "Cüneyt Çakır (Turquía)",
+    "goals": "Barcelona: Rakitić (4'), Suárez (68'), Neymar (90+7') | Juventus: Morata (55')"
+  },
+  {
+    "season": "2015-16",
+    "era": "champions",
+    "date": "28/05/2016",
+    "time": "20:45 CEST",
+    "winner": "Real Madrid",
+    "runnerUp": "Atlético de Madrid",
+    "scoreWinner": "1 (5)",
+    "scoreRunnerUp": "(3) 1",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Zinedine Zidane", "pais": "fr" },
+        "formation": "4-3-3",
+        "startingEleven": [
+          { "nombre": "Keylor Navas (P)", "pais": "cr" },
+          { "nombre": "Daniel Carvajal", "pais": "es" },
+          { "nombre": "Sergio Ramos (C)", "pais": "es" },
+          { "nombre": "Pepe", "pais": "pt" },
+          { "nombre": "Marcelo Vieira", "pais": "br" },
+          { "nombre": "Luka Modrić", "pais": "hr" },
+          { "nombre": "Casemiro", "pais": "br" },
+          { "nombre": "Toni Kroos", "pais": "de" },
+          { "nombre": "Gareth Bale", "pais": "gb-wls" },
+          { "nombre": "Karim Benzema", "pais": "fr" },
+          { "nombre": "Cristiano Ronaldo", "pais": "pt" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Diego Simeone", "pais": "ar" },
+        "formation": "4-4-2",
+        "startingEleven": [
+          { "nombre": "Jan Oblak (P)", "pais": "si" },
+          { "nombre": "Juanfran Torres", "pais": "es" },
+          { "nombre": "Stefan Savić", "pais": "me" },
+          { "nombre": "Diego Godín", "pais": "uy" },
+          { "nombre": "Filipe Luís", "pais": "br" },
+          { "nombre": "Augusto Fernández", "pais": "ar" },
+          { "nombre": "Saúl Ñíguez", "pais": "es" },
+          { "nombre": "Gabi (C)", "pais": "es" },
+          { "nombre": "Koke", "pais": "es" },
+          { "nombre": "Fernando Torres", "pais": "es" },
+          { "nombre": "Antoine Griezmann", "pais": "fr" }
+        ]
+      }
+    },
+    "stadium": "San Siro",
+    "city": "Milán",
+    "country": "Italia",
+    "attendance": "71,942",
+    "referee": "Mark Clattenburg (Inglaterra)",
+    "goals": "Real Madrid: Ramos (15') | Atlético: Carrasco (79')"
+  },
+  {
+    "season": "2016-17",
+    "era": "champions",
+    "date": "03/06/2017",
+    "time": "19:45 BST",
+    "winner": "Real Madrid",
+    "runnerUp": "Juventus",
+    "scoreWinner": "4",
+    "scoreRunnerUp": "1",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Zinedine Zidane", "pais": "fr" },
+        "formation": "4-3-1-2",
+        "startingEleven": [
+          { "nombre": "Keylor Navas (P)", "pais": "cr" },
+          { "nombre": "Daniel Carvajal", "pais": "es" },
+          { "nombre": "Raphaël Varane", "pais": "fr" },
+          { "nombre": "Sergio Ramos (C)", "pais": "es" },
+          { "nombre": "Marcelo Vieira", "pais": "br" },
+          { "nombre": "Luka Modrić", "pais": "hr" },
+          { "nombre": "Casemiro", "pais": "br" },
+          { "nombre": "Toni Kroos", "pais": "de" },
+          { "nombre": "Isco Alarcón", "pais": "es" },
+          { "nombre": "Karim Benzema", "pais": "fr" },
+          { "nombre": "Cristiano Ronaldo", "pais": "pt" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Massimiliano Allegri", "pais": "it" },
+        "formation": "5-2-3",
+        "startingEleven": [
+          { "nombre": "Gianluigi Buffon (P)(C)", "pais": "it" },
+          { "nombre": "Andrea Barzagli", "pais": "it" },
+          { "nombre": "Leonardo Bonucci", "pais": "it" },
+          { "nombre": "Giorgio Chiellini", "pais": "it" },
+          { "nombre": "Dani Alves", "pais": "br" },
+          { "nombre": "Sami Khedira", "pais": "de" },
+          { "nombre": "Miralem Pjanić", "pais": "ba" },
+          { "nombre": "Alex Sandro", "pais": "br" },
+          { "nombre": "Paulo Dybala", "pais": "ar" },
+          { "nombre": "Gonzalo Higuaín", "pais": "ar" },
+          { "nombre": "Mario Mandžukić", "pais": "hr" }
+        ]
+      }
+    },
+    "stadium": "Principality Stadium",
+    "city": "Cardiff",
+    "country": "Gales",
+    "attendance": "65,842",
+    "referee": "Felix Brych (Alemania)",
+    "goals": "Real Madrid: Ronaldo (20', 64'), Casemiro (61'), Asensio (90') | Juventus: Mandžukić (27')"
+  },
+  {
+    "season": "2017-18",
+    "era": "champions",
+    "date": "26/05/2018",
+    "time": "21:45 EEST",
+    "winner": "Real Madrid",
+    "runnerUp": "Liverpool",
+    "scoreWinner": "3",
+    "scoreRunnerUp": "1",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Zinedine Zidane", "pais": "fr" },
+        "formation": "4-3-1-2",
+        "startingEleven": [
+          { "nombre": "Keylor Navas (P)", "pais": "cr" },
+          { "nombre": "Daniel Carvajal", "pais": "es" },
+          { "nombre": "Raphaël Varane", "pais": "fr" },
+          { "nombre": "Sergio Ramos (C)", "pais": "es" },
+          { "nombre": "Marcelo Vieira", "pais": "br" },
+          { "nombre": "Luka Modrić", "pais": "hr" },
+          { "nombre": "Casemiro", "pais": "br" },
+          { "nombre": "Toni Kroos", "pais": "de" },
+          { "nombre": "Isco Alarcón", "pais": "es" },
+          { "nombre": "Karim Benzema", "pais": "fr" },
+          { "nombre": "Cristiano Ronaldo", "pais": "pt" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Jürgen Klopp", "pais": "de" },
+        "formation": "4-3-3",
+        "startingEleven": [
+          { "nombre": "Alisson Becker (P)", "pais": "br" },
+          { "nombre": "Trent Alexander-Arnold", "pais": "gb-eng" },
+          { "nombre": "Dejan Lovren", "pais": "hr" },
+          { "nombre": "Virgil van Dijk", "pais": "nl" },
+          { "nombre": "Andrew Robertson", "pais": "gb-sct" },
+          { "nombre": "Jordan Henderson (C)", "pais": "gb-eng" },
+          { "nombre": "James Milner", "pais": "gb-eng" },
+          { "nombre": "Georginio Wijnaldum", "pais": "nl" },
+          { "nombre": "Mohamed Salah", "pais": "eg" },
+          { "nombre": "Roberto Firmino", "pais": "br" },
+          { "nombre": "Sadio Mané", "pais": "sn" }
+        ]
+      }
+    },
+    "stadium": "NSC Olimpiyskiy",
+    "city": "Kiev",
+    "country": "Ucrania",
+    "attendance": "61,561",
+    "referee": "Milorad Mažić (Serbia)",
+    "goals": "Real Madrid: Benzema (51'), Bale (64', 83') | Liverpool: Mané (55')"
+  },
+  {
+    "season": "2018-19",
+    "era": "champions",
+    "date": "01/06/2019",
+    "time": "21:00 CEST",
+    "winner": "Liverpool",
+    "runnerUp": "Tottenham Hotspur",
+    "scoreWinner": "2",
+    "scoreRunnerUp": "0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Jürgen Klopp", "pais": "de" },
+        "formation": "4-3-3",
+        "startingEleven": [
+          { "nombre": "Alisson Becker (P)", "pais": "br" },
+          { "nombre": "Trent Alexander-Arnold", "pais": "gb-eng" },
+          { "nombre": "Joël Matip", "pais": "cm" },
+          { "nombre": "Virgil van Dijk", "pais": "nl" },
+          { "nombre": "Andrew Robertson", "pais": "gb-sct" },
+          { "nombre": "Jordan Henderson (C)", "pais": "gb-eng" },
+          { "nombre": "Fabinho", "pais": "br" },
+          { "nombre": "Georginio Wijnaldum", "pais": "nl" },
+          { "nombre": "Mohamed Salah", "pais": "eg" },
+          { "nombre": "Roberto Firmino", "pais": "br" },
+          { "nombre": "Sadio Mané", "pais": "sn" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Mauricio Pochettino", "pais": "ar" },
+        "formation": "4-2-3-1",
+        "startingEleven": [
+          { "nombre": "Hugo Lloris (P)(C)", "pais": "fr" },
+          { "nombre": "Kieran Trippier", "pais": "gb-eng" },
+          { "nombre": "Toby Alderweireld", "pais": "be" },
+          { "nombre": "Jan Vertonghen", "pais": "be" },
+          { "nombre": "Danny Rose", "pais": "gb-eng" },
+          { "nombre": "Moussa Sissoko", "pais": "fr" },
+          { "nombre": "Harry Winks", "pais": "gb-eng" },
+          { "nombre": "Dele Alli", "pais": "gb-eng" },
+          { "nombre": "Christian Eriksen", "pais": "dk" },
+          { "nombre": "Son Heung-Min", "pais": "kr" },
+          { "nombre": "Harry Kane", "pais": "gb-eng" }
+        ]
+      }
+    },
+    "stadium": "Estadio Metropolitano",
+    "city": "Madrid",
+    "country": "España",
+    "attendance": "63,272",
+    "referee": "Damir Skomina (Eslovenia)",
+    "goals": "Liverpool: Salah (2' pen.), Origi (87')"
+  },
+  {
+    "season": "2019-20",
+    "era": "champions",
+    "date": "23/08/2020",
+    "time": "20:00 WEST",
+    "winner": "Bayern Múnich",
+    "runnerUp": "Paris Saint-Germain",
+    "scoreWinner": "1",
+    "scoreRunnerUp": "0",
+    "lineUps": {
+      "lineWinner": {
+        "coach": { "nombre": "Hans-Dieter Flick", "pais": "de" },
+        "formation": "4-2-3-1",
+        "startingEleven": [
+          { "nombre": "Manuel Neuer (P)(C)", "pais": "de" },
+          { "nombre": "Joshua Kimmich", "pais": "de" },
+          { "nombre": "Jérôme Boateng", "pais": "de" },
+          { "nombre": "David Alaba", "pais": "at" },
+          { "nombre": "Alphonso Davies", "pais": "ca" },
+          { "nombre": "Leon Goretzka", "pais": "de" },
+          { "nombre": "Thiago Alcántara", "pais": "es" },
+          { "nombre": "Serge Gnabry", "pais": "de" },
+          { "nombre": "Kingsley Coman", "pais": "fr" },
+          { "nombre": "Thomas Müller", "pais": "de" },
+          { "nombre": "Robert Lewandowski", "pais": "pl" }
+        ]
+      },
+      "lineRunnerUp": {
+        "coach": { "nombre": "Thomas Tuchel", "pais": "de" },
+        "formation": "4-3-3",
+        "startingEleven": [
+          { "nombre": "Keylor Navas (P)", "pais": "cr" },
+          { "nombre": "Thilo Kehrer", "pais": "de" },
+          { "nombre": "Thiago Silva (C)", "pais": "br" },
+          { "nombre": "Presnel Kimpembe", "pais": "fr" },
+          { "nombre": "Juan Bernat", "pais": "es" },
+          { "nombre": "Ander Herrera", "pais": "es" },
+          { "nombre": "Marquinhos", "pais": "br" },
+          { "nombre": "Leandro Paredes", "pais": "ar" },
+          { "nombre": "Ángel Di María", "pais": "ar" },
+          { "nombre": "Neymar Junior", "pais": "br" },
+          { "nombre": "Kylian Mbappé", "pais": "fr" }
+        ]
+      }
+    },
+    "stadium": "Estádio da Luz",
+    "city": "Lisboa",
+    "country": "Portugal",
+    "attendance": "0 (Puerta cerrada)",
+    "referee": "Daniele Orsato (Italia)",
+    "goals": "Bayern: Coman (59')"
+  }
+]

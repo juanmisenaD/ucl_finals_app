@@ -1,0 +1,16 @@
+{
+  "name": "ucl-finals-app",
+  "version": "1.0.0",
+  "description": "ucl-finals-app/\r │\r ├── index.html                  # Interfaz principal (UI, filtros, grid y modal)\r │\r ├── css/\r │   ├── base.css                # Variables CSS, reset y estilos globales\r │   ├── components.css          # Tarjetas, modales, buscadores y badges\r │   └── layout.css              # Grid responsivo y contenedores\r │\r ├── js/\r │   ├── app.js                  # Manejo de eventos, renderizado e interacción modal\r │   ├── dataLoader.js           # Módulo encargado de hacer fetch a los JSON\r │   └── filters.js              # Lógica de búsqueda y filtrado por era/equipo\r │\r └── data/\r     ├── finals-1950s-1970s.json  # Finales desde 1955-56 hasta 1979-80\r     ├── finals-1980s-1990s.json  # Finales desde 1980-81 hasta 1999-00\r     ├── finals-2000s-2010s.json  # Finales desde 2000-01 hasta 2019-20\r     └── finals-2020s-present.json # Finales desde 2020-21 en adelante",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

@@ -1,0 +1,136 @@
+.controls input, .controls select {
+  padding: 10px 15px;
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  color: var(--text-main);
+  border-radius: 8px;
+  font-size: 0.95rem;
+}
+
+.card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  padding: 20px;
+  cursor: pointer;
+  transition: transform 0.2s, border-color 0.2s;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  border-color: var(--accent);
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  margin-bottom: 10px;
+}
+
+.badge {
+  background: rgba(0, 212, 255, 0.15);
+  color: var(--accent);
+  padding: 2px 8px;
+  border-radius: 4px;
+}
+
+.teams {
+  font-size: 1.1rem;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+.score {
+  font-size: 1.5rem;
+  color: var(--accent);
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 12px;
+}
+
+.card-footer {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  text-align: center;
+}
+
+/* Modal Styling */
+.modal {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.8);
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.modal-content {
+  background: var(--bg-card);
+  border: 1px solid var(--accent);
+  padding: 30px;
+  border-radius: 12px;
+  width: 90%;
+  max-width: 550px;
+  position: relative;
+}
+
+.close-btn {
+  position: absolute;
+  top: 15px;
+  right: 20px;
+  font-size: 1.8rem;
+  cursor: pointer;
+  color: var(--text-muted);
+}
+
+.lineups-section {
+  margin-top: 16px;
+  border-top: 1px solid #e2e8f0;
+  padding-top: 12px;
+}
+
+.lineups-section h3 {
+  font-size: 0.95rem;
+  margin-bottom: 10px;
+  color: #0e43be;
+}
+
+.lineups-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+
+.lineup-column h4 {
+  font-size: 0.85rem;
+  margin: 0 0 8px 0;
+  color: #1e40af;
+}
+
+.lineup-column h4 span {
+  font-size: 0.75rem;
+  color: #64748b;
+  font-weight: normal;
+}
+
+.lineup-column ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 0.8rem;
+  color: #f5f6f8;
+}
+
+.lineup-column li {
+  padding: 3px 0;
+  border-bottom: 1px dashed #f1f5f9;
+}
+
+.lineup-column li img {
+  width: 20px;
+  height: 10px;
+}
