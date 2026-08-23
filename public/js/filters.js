@@ -37,9 +37,11 @@ export function filterFinals(finals, query, era) {
 }
 
 // Procesa las finales y genera una tabla ordenada de equipos
-export function generateDetailedStats(finals) {
+export function generateDetailedStats(finals, query = '') {
   const statsMap = {};
+  const searchTerm = query.toLowerCase().trim();
 
+  // 1. Acumular estadísticas de campeón y subcampeón
   finals.forEach(item => {
     const winner = item.winner;
     const runnerUp = item.runnerUp;
@@ -64,13 +66,20 @@ export function generateDetailedStats(finals) {
   });
 
   // Convertir a Array y calcular porcentaje de efectividad
-  const statsArray = Object.values(statsMap).map(teamData => {
+  let statsArray = Object.values(statsMap).map(teamData => {
     const winPercentage = ((teamData.titles / teamData.finals) * 100).toFixed(1);
     return {
       ...teamData,
       winPercentage: parseFloat(winPercentage)
     };
   });
+
+  // 2. SI HAY BÚSQUEDA: Filtra para que aparezca SOLO el equipo buscado
+  if (searchTerm) {
+    statsArray = statsArray.filter(item => 
+      item.team.toLowerCase().includes(searchTerm)
+    );
+  }
 
   // Ordenar de MAYOR a MENOR:
   // 1º Por Títulos desc. | 2º Por Finales desc. | 3º Por Efectividad desc.

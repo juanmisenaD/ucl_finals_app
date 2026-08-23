@@ -103,7 +103,7 @@ function renderStats(finals) {
   document.getElementById('statTopWinner').textContent = topWinner;
 }
 
-function renderStatsTable(statsData, q = "") {
+function renderStatsTable(statsData) {
   const tbody = document.getElementById('statsTableBody');
   if (!tbody) return;
 
@@ -172,8 +172,8 @@ function handleFilter() {
   // renderFinalsGrid(filteredFinals);
 
   // Generar y renderizar la tabla ordenada
-  const statsData = generateDetailedStats(filtered);
-  renderStatsTable(statsData, query);
+  const statsData = generateDetailedStats(filtered, query);
+  renderStatsTable(statsData);
 }
 
 async function init() {
