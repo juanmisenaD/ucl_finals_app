@@ -52,6 +52,57 @@ function renderTeamLineup(teamName, lineupData) {
   `;
 }
 
+// Extrae la cantidad total de goles del string de marcador (ej. "5 - 0" o "1 - 1 (4 - 3 pen.)")
+function extractGoalsFromScore(scoreStr) {
+  if (!scoreStr) return 0;
+  // Toma los números principales antes de cualquier paréntesis o aclaración
+  const mainScore = scoreStr.split('(')[0];
+  const numbers = mainScore.match(/\d+/g);
+  
+  if (numbers && numbers.length >= 2) {
+    return parseInt(numbers[0], 10) + parseInt(numbers[1], 10);
+  }
+  return 0;
+}
+
+// Calcula y renderiza las estadísticas en el HTML
+export function renderStats(finals) {
+  if (!finals || finals.length === 0) return;
+
+  const totalFinals = finals.length;
+  let totalGoals = 0;
+  const winnerCounts = {};
+
+  finals.forEach(item => {
+    // Sumar goles
+    totalGoals += extractGoalsFromScore(item.score);
+
+    // Contar títulos por equipo
+    if (item.winner && item.winner !== 'TBD') {
+      winnerCounts[item.winner] = (winnerCounts[item.winner] || 0) + 1;
+    }
+  });
+
+  // Calcular promedio de goles
+  const avgGoals = totalFinals > 0 ? (totalGoals / totalFinals).toFixed(2) : '0.00';
+
+  // Encontrar al equipo con más títulos
+  let topWinner = '-';
+  let maxTitles = 0;
+  for (const [team, titles] of Object.entries(winnerCounts)) {
+    if (titles > maxTitles) {
+      maxTitles = titles;
+      topWinner = `${team} (${titles})`;
+    }
+  }
+
+  // Inyectar valores en el DOM
+  document.getElementById('statTotalFinals').textContent = totalFinals;
+  document.getElementById('statTotalGoals').textContent = totalGoals;
+  document.getElementById('statAvgGoals').textContent = avgGoals;
+  document.getElementById('statTopWinner').textContent = topWinner;
+}
+
 function openModal(item) {
   const information = item.nota ? item.nota : '';
   const score = `${item.scoreWinner} - ${item.scoreRunnerUp}`;
@@ -94,6 +145,7 @@ function handleFilter() {
 async function init() {
   allFinals = await loadAllFinals();
   render(allFinals);
+  renderStats(allFinals);
 
   searchInput.addEventListener('input', handleFilter);
   eraFilter.addEventListener('change', handleFilter);
