@@ -35,3 +35,48 @@ export function filterFinals(finals, query, era) {
     return matchesSearch && matchesEra;
   });
 }
+
+// Procesa las finales y genera una tabla ordenada de equipos
+export function generateDetailedStats(finals) {
+  const statsMap = {};
+
+  finals.forEach(item => {
+    const winner = item.winner;
+    const runnerUp = item.runnerUp;
+
+    // Registrar o actualizar Campeón
+    if (winner && winner !== 'TBD') {
+      if (!statsMap[winner]) {
+        statsMap[winner] = { team: winner, titles: 0, finals: 0, runnersUp: 0 };
+      }
+      statsMap[winner].titles += 1;
+      statsMap[winner].finals += 1;
+    }
+
+    // Registrar o actualizar Subcampeón
+    if (runnerUp && runnerUp !== 'TBD') {
+      if (!statsMap[runnerUp]) {
+        statsMap[runnerUp] = { team: runnerUp, titles: 0, finals: 0, runnersUp: 0 };
+      }
+      statsMap[runnerUp].runnersUp += 1;
+      statsMap[runnerUp].finals += 1;
+    }
+  });
+
+  // Convertir a Array y calcular porcentaje de efectividad
+  const statsArray = Object.values(statsMap).map(teamData => {
+    const winPercentage = ((teamData.titles / teamData.finals) * 100).toFixed(1);
+    return {
+      ...teamData,
+      winPercentage: parseFloat(winPercentage)
+    };
+  });
+
+  // Ordenar de MAYOR a MENOR:
+  // 1º Por Títulos desc. | 2º Por Finales desc. | 3º Por Efectividad desc.
+  return statsArray.sort((a, b) => {
+    if (b.titles !== a.titles) return b.titles - a.titles;
+    if (b.finals !== a.finals) return b.finals - a.finals;
+    return b.winPercentage - a.winPercentage;
+  });
+}

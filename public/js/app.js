@@ -1,5 +1,5 @@
 import { loadAllFinals } from './dataLoader.js';
-import { filterFinals } from './filters.js';
+import { filterFinals, generateDetailedStats } from './filters.js';
 
 let allFinals = [];
 
@@ -66,7 +66,7 @@ function extractGoalsFromScore(scoreStr) {
 }
 
 // Calcula y renderiza las estadísticas en el HTML
-export function renderStats(finals) {
+function renderStats(finals) {
   if (!finals || finals.length === 0) return;
 
   const totalFinals = finals.length;
@@ -101,6 +101,29 @@ export function renderStats(finals) {
   document.getElementById('statTotalGoals').textContent = totalGoals;
   document.getElementById('statAvgGoals').textContent = avgGoals;
   document.getElementById('statTopWinner').textContent = topWinner;
+}
+
+function renderStatsTable(statsData, q = "") {
+  const tbody = document.getElementById('statsTableBody');
+  if (!tbody) return;
+
+  if (statsData.length === 0) {
+    tbody.innerHTML = `<tr><td colspan="6" style="text-align:center;">No hay estadísticas disponibles</td></tr>`;
+    return;
+  }
+  
+  tbody.innerHTML = statsData
+    .map((item, index) => `
+      <tr>
+        <td><strong>${index + 1}</strong></td>
+        <td class="team-name">${item.team}</td>
+        <td class="highlight-title">${item.titles}</td>
+        <td>${item.finals}</td>
+        <td>${item.runnersUp}</td>
+        <td>${item.winPercentage}%</td>
+      </tr>
+    `)
+    .join('');
 }
 
 function openModal(item) {
@@ -138,14 +161,26 @@ closeModal.onclick = () => modal.style.display = 'none';
 window.onclick = (e) => { if (e.target === modal) modal.style.display = 'none'; };
 
 function handleFilter() {
-  const filtered = filterFinals(allFinals, searchInput.value, eraFilter.value);
+  const query = searchInput?.value || '';
+  const era = eraFilter?.value || 'all';
+
+  const filtered = filterFinals(allFinals, query, era);
+  /// const filteredFinals = filterFinals(allFinalsData, query, era);
+
+  // Renderizar partidos
   render(filtered);
+  // renderFinalsGrid(filteredFinals);
+
+  // Generar y renderizar la tabla ordenada
+  const statsData = generateDetailedStats(filtered);
+  renderStatsTable(statsData, query);
 }
 
 async function init() {
   allFinals = await loadAllFinals();
   render(allFinals);
   renderStats(allFinals);
+  renderStatsTable(generateDetailedStats(allFinals));
 
   searchInput.addEventListener('input', handleFilter);
   eraFilter.addEventListener('change', handleFilter);

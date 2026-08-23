@@ -164,3 +164,56 @@
   text-transform: uppercase;
   letter-spacing: 0.5px;
 }
+
+.stats-table-container {
+  margin: 24px 0;
+  background: #0f172a;
+  padding: 18px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.stats-table-container h3 {
+  margin-top: 0;
+  margin-bottom: 14px;
+  font-size: 1.1rem;
+  color: #f1f5f9;
+}
+
+.table-responsive {
+  overflow-x: auto;
+}
+
+.stats-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+  text-align: left;
+}
+
+.stats-table th {
+  background-color: #0f172a;
+  color: #ffffff;
+  padding: 10px 12px;
+  font-weight: 600;
+}
+
+.stats-table td {
+  padding: 10px 12px;
+  border-bottom: 1px solid #e2e8f0;
+  color: #e2e8f0;
+}
+
+.stats-table tbody tr:hover {
+  background-color: #141414;
+}
+
+.stats-table .team-name {
+  font-weight: 600;
+  color: #f8fafc;
+}
+
+.stats-table .highlight-title {
+  font-weight: 800;
+  color: #1e40af;
+}
