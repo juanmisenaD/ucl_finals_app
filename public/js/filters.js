@@ -82,9 +82,10 @@ export function generateDetailedStats(finals, query = '') {
   }
 
   // Ordenar de MAYOR a MENOR:
-  // 1º Por Títulos desc. | 2º Por Finales desc. | 3º Por Efectividad desc.
+  // 1º Por Títulos desc. | 2º Por Subcampeonatos asc. | 3º Por Finales desc. | 4º Por Efectividad desc.
   return statsArray.sort((a, b) => {
     if (b.titles !== a.titles) return b.titles - a.titles;
+    if (a.runnersUp !== b.runnersUp) return a.runnersUp - b.runnersUp;
     if (b.finals !== a.finals) return b.finals - a.finals;
     return b.winPercentage - a.winPercentage;
   });
